@@ -1,0 +1,1001 @@
+book_id,title,author,price,stock_quantity,category_id,description,publisher,publication_year
+1,The Catcher in the Rye,J.D. Salinger,23.28,34,2,A great book about life and adventure.,Giles Ltd,1989
+2,The Hobbit,Ray Bradbury,48.02,18,5,A great book about life and adventure.,Dennis-Bell,1982
+3,Fahrenheit 451,F. Scott Fitzgerald,9.06,16,3,A great book about life and adventure.,Simpson-Clark,1992
+4,Moby-Dick,Harper Lee,5.44,43,2,A great book about life and adventure.,"Smith, Holland and Wilson",1999
+5,The Great Gatsby,F. Scott Fitzgerald,41.32,56,5,A great book about life and adventure.,Hicks Group,2004
+6,The Catcher in the Rye,George Orwell,25.55,1,5,A great book about life and adventure.,Castro-Zimmerman,2010
+7,Pride and Prejudice,Ray Bradbury,26.16,98,1,A great book about life and adventure.,Webster-Adams,1998
+8,The Great Gatsby,J.R.R. Tolkien,18.86,74,2,A great book about life and adventure.,"Kirk, Lynch and Walsh",1999
+9,1984,Harper Lee,17.11,84,2,A great book about life and adventure.,Baker-Boyd,1997
+10,Pride and Prejudice,J.R.R. Tolkien,17.68,6,5,A great book about life and adventure.,Houston Ltd,1994
+11,The Great Gatsby,J.R.R. Tolkien,25.88,88,3,A great book about life and adventure.,"Silva, Christensen and Shaw",1992
+12,The Lord of the Rings,J.R.R. Tolkien,24.71,10,3,A great book about life and adventure.,Hardin PLC,2000
+13,Pride and Prejudice,Harper Lee,34.04,84,5,A great book about life and adventure.,Long and Sons,2003
+14,The Great Gatsby,Ray Bradbury,45.42,27,2,A great book about life and adventure.,Ramirez-Howell,2015
+15,1984,J.R.R. Tolkien,28.43,62,4,A great book about life and adventure.,Miller-Lucas,2023
+16,The Hobbit,Jane Austen,45.16,11,4,A great book about life and adventure.,Jones-Graham,2006
+17,Pride and Prejudice,F. Scott Fitzgerald,12.57,56,5,A great book about life and adventure.,Cox-Hopkins,2022
+18,Harry Potter and the Sorcerer's Stone,Jane Austen,32.72,65,5,A great book about life and adventure.,"Keller, Smith and Evans",1990
+19,To Kill a Mockingbird,Herman Melville,9.38,14,5,A great book about life and adventure.,Reed Group,1999
+20,Pride and Prejudice,J.R.R. Tolkien,17.03,35,4,A great book about life and adventure.,"Quinn, Hebert and Martin",2014
+21,1984,F. Scott Fitzgerald,38.37,80,4,A great book about life and adventure.,Briggs Group,1986
+22,Moby-Dick,Jane Austen,49.26,36,3,A great book about life and adventure.,"Patel, Young and Rios",2016
+23,Moby-Dick,Harper Lee,36.93,39,2,A great book about life and adventure.,Garcia Inc,2021
+24,The Great Gatsby,Herman Melville,44.48,15,4,A great book about life and adventure.,"Mora, Nguyen and Henry",2020
+25,Pride and Prejudice,F. Scott Fitzgerald,19.86,15,5,A great book about life and adventure.,Jones Inc,2010
+26,Harry Potter and the Sorcerer's Stone,J.R.R. Tolkien,13.72,81,2,A great book about life and adventure.,"Murphy, Townsend and Brown",1982
+27,To Kill a Mockingbird,Herman Melville,17.93,12,2,A great book about life and adventure.,Bishop and Sons,1982
+28,The Lord of the Rings,Herman Melville,7.81,89,1,A great book about life and adventure.,Cunningham-Elliott,1991
+29,Pride and Prejudice,J.R.R. Tolkien,41.67,31,1,A great book about life and adventure.,"Rodriguez, Blake and Webster",1984
+30,1984,Ray Bradbury,31.23,8,3,A great book about life and adventure.,Buckley-Mcknight,2020
+31,The Hobbit,Herman Melville,9.78,12,4,A great book about life and adventure.,Smith-Ellis,1992
+32,To Kill a Mockingbird,Ray Bradbury,39.18,11,2,A great book about life and adventure.,Rodriguez-Smith,2017
+33,1984,J.R.R. Tolkien,44.32,75,5,A great book about life and adventure.,Thomas LLC,2021
+34,Harry Potter and the Sorcerer's Stone,Harper Lee,16.45,29,1,A great book about life and adventure.,Munoz-Higgins,2004
+35,The Catcher in the Rye,J.R.R. Tolkien,23.48,13,2,A great book about life and adventure.,"Leon, Peterson and Wilson",1998
+36,The Great Gatsby,George Orwell,10.74,33,4,A great book about life and adventure.,Stokes Group,2010
+37,1984,J.R.R. Tolkien,22.41,96,1,A great book about life and adventure.,"Ryan, Kennedy and Randolph",1984
+38,To Kill a Mockingbird,Ray Bradbury,42.29,8,4,A great book about life and adventure.,Carlson-Harris,1990
+39,The Great Gatsby,J.R.R. Tolkien,46.38,20,3,A great book about life and adventure.,Bass-Hancock,2000
+40,The Lord of the Rings,Jane Austen,21.06,89,2,A great book about life and adventure.,Fowler-Ray,1992
+41,To Kill a Mockingbird,J.R.R. Tolkien,25.12,48,3,A great book about life and adventure.,Valdez Inc,2006
+42,1984,Harper Lee,8.17,59,1,A great book about life and adventure.,"Thomas, Kelley and Jackson",1983
+43,The Hobbit,Jane Austen,37.36,52,4,A great book about life and adventure.,"Padilla, Jackson and Peterson",1992
+44,The Great Gatsby,Jane Austen,19.52,30,5,A great book about life and adventure.,Williams-Howard,1999
+45,Moby-Dick,Harper Lee,40.71,90,1,A great book about life and adventure.,"Salazar, Thomas and Ruiz",2002
+46,The Lord of the Rings,Harper Lee,37.8,10,1,A great book about life and adventure.,Foster Group,2008
+47,Harry Potter and the Sorcerer's Stone,F. Scott Fitzgerald,25.41,24,5,A great book about life and adventure.,Villegas-Salazar,2015
+48,The Catcher in the Rye,J.R.R. Tolkien,30.95,54,4,A great book about life and adventure.,Griffin Ltd,2024
+49,The Great Gatsby,George Orwell,35.53,72,4,A great book about life and adventure.,Andersen-Riddle,2016
+50,The Hobbit,J.R.R. Tolkien,39.34,73,1,A great book about life and adventure.,"Riley, Best and Gross",2008
+51,Harry Potter and the Sorcerer's Stone,J.D. Salinger,45.82,43,3,A great book about life and adventure.,"Tucker, Rodriguez and Brooks",2013
+52,The Great Gatsby,F. Scott Fitzgerald,41.91,36,2,A great book about life and adventure.,Bowers-Garcia,1983
+53,The Great Gatsby,George Orwell,19.94,48,3,A great book about life and adventure.,Collins-Wilson,2021
+54,Pride and Prejudice,J.K. Rowling,45.02,34,5,A great book about life and adventure.,Long Inc,2001
+55,The Lord of the Rings,Jane Austen,27.57,36,1,A great book about life and adventure.,Mueller PLC,1997
+56,Harry Potter and the Sorcerer's Stone,J.R.R. Tolkien,38.97,73,1,A great book about life and adventure.,Gregory LLC,2012
+57,Pride and Prejudice,Harper Lee,25.29,96,4,A great book about life and adventure.,Cook and Sons,2000
+58,The Catcher in the Rye,Ray Bradbury,14.92,60,1,A great book about life and adventure.,Collins-Lawrence,2010
+59,The Hobbit,George Orwell,42.09,55,3,A great book about life and adventure.,Hill-Molina,1983
+60,1984,J.R.R. Tolkien,30.31,32,1,A great book about life and adventure.,Ross-Howell,2009
+61,The Catcher in the Rye,J.R.R. Tolkien,21.82,87,4,A great book about life and adventure.,Howard PLC,2022
+62,Harry Potter and the Sorcerer's Stone,F. Scott Fitzgerald,47.66,82,1,A great book about life and adventure.,"Davis, Brooks and Elliott",2023
+63,To Kill a Mockingbird,F. Scott Fitzgerald,28.33,89,2,A great book about life and adventure.,"Barrett, Mckenzie and Gibson",1993
+64,Harry Potter and the Sorcerer's Stone,J.D. Salinger,35.66,17,2,A great book about life and adventure.,"White, Fields and Wilson",2014
+65,Pride and Prejudice,Ray Bradbury,24.39,43,3,A great book about life and adventure.,Simmons and Sons,2006
+66,1984,Ray Bradbury,44.03,100,3,A great book about life and adventure.,Robinson Group,2001
+67,The Great Gatsby,J.R.R. Tolkien,9.72,67,3,A great book about life and adventure.,"Navarro, Rogers and Figueroa",1986
+68,1984,Jane Austen,39.09,19,2,A great book about life and adventure.,Welch-Green,1991
+69,Harry Potter and the Sorcerer's Stone,George Orwell,19.18,13,1,A great book about life and adventure.,"Lee, Jones and Romero",1993
+70,To Kill a Mockingbird,Harper Lee,14.26,98,4,A great book about life and adventure.,Robertson and Sons,1982
+71,1984,J.R.R. Tolkien,30.23,69,2,A great book about life and adventure.,"Anderson, Reed and Moore",2011
+72,To Kill a Mockingbird,George Orwell,25.23,95,2,A great book about life and adventure.,"Thomas, Harrison and Stevens",2008
+73,The Catcher in the Rye,Ray Bradbury,19.36,78,3,A great book about life and adventure.,"Jones, Smith and Arnold",2001
+74,The Great Gatsby,J.R.R. Tolkien,49.86,71,1,A great book about life and adventure.,"Jones, Williams and Evans",2024
+75,To Kill a Mockingbird,J.R.R. Tolkien,48.35,46,4,A great book about life and adventure.,Wells Ltd,2006
+76,To Kill a Mockingbird,J.K. Rowling,26.76,66,5,A great book about life and adventure.,Freeman-Rivera,2021
+77,The Lord of the Rings,J.R.R. Tolkien,17.59,77,1,A great book about life and adventure.,King-Gonzalez,1986
+78,Moby-Dick,J.R.R. Tolkien,34.54,26,4,A great book about life and adventure.,Bowman-Gonzalez,1985
+79,To Kill a Mockingbird,J.R.R. Tolkien,10.4,69,4,A great book about life and adventure.,Carson-Armstrong,1981
+80,To Kill a Mockingbird,Jane Austen,29.71,72,1,A great book about life and adventure.,"Dean, Irwin and Smith",1984
+81,Fahrenheit 451,Harper Lee,39.07,50,5,A great book about life and adventure.,Whitney-Gilbert,2018
+82,1984,F. Scott Fitzgerald,42.08,2,5,A great book about life and adventure.,Miller-Frye,1981
+83,To Kill a Mockingbird,Harper Lee,41.49,95,1,A great book about life and adventure.,"Bailey, Gregory and Solis",1988
+84,Fahrenheit 451,J.R.R. Tolkien,45.07,99,5,A great book about life and adventure.,"Jones, Martin and Franklin",1993
+85,Fahrenheit 451,Harper Lee,32.96,93,3,A great book about life and adventure.,Lynch Group,2002
+86,Moby-Dick,Ray Bradbury,10.91,40,3,A great book about life and adventure.,"Wilson, Myers and Ortega",2014
+87,The Great Gatsby,Ray Bradbury,26.42,81,4,A great book about life and adventure.,Yates-Neal,2002
+88,Pride and Prejudice,F. Scott Fitzgerald,15.85,75,5,A great book about life and adventure.,Jackson Group,1987
+89,Moby-Dick,F. Scott Fitzgerald,16.66,44,4,A great book about life and adventure.,"Charles, Krause and Jacobs",1995
+90,The Lord of the Rings,George Orwell,37.34,25,4,A great book about life and adventure.,Brown-Gonzales,1993
+91,1984,J.K. Rowling,49.77,37,2,A great book about life and adventure.,"Mann, Good and Wallace",1992
+92,The Hobbit,J.R.R. Tolkien,23.68,78,5,A great book about life and adventure.,Frederick-Brown,2013
+93,1984,F. Scott Fitzgerald,45.31,3,4,A great book about life and adventure.,Neal-Chambers,2023
+94,Harry Potter and the Sorcerer's Stone,Ray Bradbury,37.95,24,4,A great book about life and adventure.,Sweeney and Sons,2021
+95,Pride and Prejudice,J.R.R. Tolkien,8.2,25,1,A great book about life and adventure.,Alexander-Greene,2019
+96,Harry Potter and the Sorcerer's Stone,F. Scott Fitzgerald,33.91,10,1,A great book about life and adventure.,"Hamilton, Martinez and Young",2013
+97,Moby-Dick,George Orwell,44.88,81,4,A great book about life and adventure.,Flores PLC,1999
+98,The Lord of the Rings,F. Scott Fitzgerald,23.02,52,4,A great book about life and adventure.,"Martin, Hunt and Taylor",2002
+99,To Kill a Mockingbird,F. Scott Fitzgerald,7.25,34,1,A great book about life and adventure.,Yang-Allen,1980
+100,Moby-Dick,F. Scott Fitzgerald,16.91,27,1,A great book about life and adventure.,"Christensen, Curtis and Colon",1991
+101,Harry Potter and the Sorcerer's Stone,J.R.R. Tolkien,22.03,9,1,A great book about life and adventure.,Hampton-Irwin,1997
+102,Moby-Dick,J.R.R. Tolkien,20.61,42,2,A great book about life and adventure.,Benson PLC,2015
+103,The Lord of the Rings,Herman Melville,26.09,31,5,A great book about life and adventure.,"Carter, Aguilar and Underwood",1995
+104,Pride and Prejudice,J.K. Rowling,15.09,52,1,A great book about life and adventure.,"Rodriguez, Young and Harrison",1981
+105,The Great Gatsby,Jane Austen,27.63,61,4,A great book about life and adventure.,Collins-Gomez,2007
+106,The Hobbit,Jane Austen,15.83,64,1,A great book about life and adventure.,"Russo, Brown and Harper",1988
+107,To Kill a Mockingbird,Jane Austen,10.59,72,1,A great book about life and adventure.,"Anderson, Bernard and Alexander",2003
+108,Moby-Dick,Herman Melville,26.61,20,5,A great book about life and adventure.,"Cooley, Allen and Simon",1983
+109,Pride and Prejudice,George Orwell,26.71,22,5,A great book about life and adventure.,"Smith, Turner and Harper",2021
+110,To Kill a Mockingbird,Jane Austen,8.55,100,2,A great book about life and adventure.,Haynes-Peterson,2017
+111,Moby-Dick,J.K. Rowling,31.56,72,5,A great book about life and adventure.,"Perez, Moore and Nguyen",1992
+112,The Lord of the Rings,Jane Austen,37.27,8,3,A great book about life and adventure.,Grimes Inc,1984
+113,To Kill a Mockingbird,Ray Bradbury,40.26,98,1,A great book about life and adventure.,"Garcia, James and Wood",2015
+114,Moby-Dick,J.D. Salinger,14.87,9,5,A great book about life and adventure.,Tucker Group,2015
+115,Fahrenheit 451,Jane Austen,18.26,94,4,A great book about life and adventure.,Pope PLC,2006
+116,Harry Potter and the Sorcerer's Stone,J.R.R. Tolkien,35.51,57,1,A great book about life and adventure.,"Wolfe, Johnson and Larson",2015
+117,Pride and Prejudice,Ray Bradbury,47.66,11,2,A great book about life and adventure.,Jones Inc,2015
+118,To Kill a Mockingbird,J.R.R. Tolkien,43.4,81,3,A great book about life and adventure.,Green-Johnson,2014
+119,The Great Gatsby,J.R.R. Tolkien,41.21,53,3,A great book about life and adventure.,Hernandez Group,2016
+120,The Great Gatsby,J.D. Salinger,8.45,47,5,A great book about life and adventure.,Carpenter PLC,1995
+121,Fahrenheit 451,Ray Bradbury,44.13,21,5,A great book about life and adventure.,Rivera LLC,1994
+122,1984,Jane Austen,34.66,50,2,A great book about life and adventure.,Smith Inc,2008
+123,The Great Gatsby,F. Scott Fitzgerald,25.61,75,4,A great book about life and adventure.,"Pearson, Alexander and Sheppard",1983
+124,Fahrenheit 451,Jane Austen,49.6,8,4,A great book about life and adventure.,Smith-Gonzalez,2019
+125,Harry Potter and the Sorcerer's Stone,Ray Bradbury,16.3,36,1,A great book about life and adventure.,Woods PLC,1997
+126,The Great Gatsby,Harper Lee,38.97,20,1,A great book about life and adventure.,Smith and Sons,1981
+127,To Kill a Mockingbird,J.R.R. Tolkien,37.07,48,2,A great book about life and adventure.,Terry Ltd,2006
+128,Moby-Dick,George Orwell,37.83,48,3,A great book about life and adventure.,Calhoun and Sons,2014
+129,To Kill a Mockingbird,J.K. Rowling,23.99,5,4,A great book about life and adventure.,Jones-Sullivan,1981
+130,Moby-Dick,Ray Bradbury,45.76,61,4,A great book about life and adventure.,Martinez Ltd,1981
+131,Fahrenheit 451,J.R.R. Tolkien,47.26,76,1,A great book about life and adventure.,"Bradley, Gonzalez and Baker",1987
+132,The Lord of the Rings,Ray Bradbury,17.32,59,3,A great book about life and adventure.,"Wagner, Moody and Wright",2003
+133,Harry Potter and the Sorcerer's Stone,George Orwell,15.81,66,4,A great book about life and adventure.,Mcgrath Ltd,1998
+134,To Kill a Mockingbird,Harper Lee,9.33,7,4,A great book about life and adventure.,"Cantu, Newton and Rodriguez",1980
+135,Harry Potter and the Sorcerer's Stone,Herman Melville,39.88,13,5,A great book about life and adventure.,Pierce-Nunez,1995
+136,Moby-Dick,J.R.R. Tolkien,5.79,64,3,A great book about life and adventure.,Hunter-Larson,2006
+137,Moby-Dick,J.R.R. Tolkien,26.85,14,5,A great book about life and adventure.,"Osborn, Sampson and Smith",1980
+138,Pride and Prejudice,J.R.R. Tolkien,23.88,9,3,A great book about life and adventure.,Thomas-Larson,2006
+139,The Lord of the Rings,J.R.R. Tolkien,39.31,57,4,A great book about life and adventure.,Daniels PLC,2004
+140,The Catcher in the Rye,Ray Bradbury,25.51,21,5,A great book about life and adventure.,"Contreras, Dudley and Russell",2019
+141,Harry Potter and the Sorcerer's Stone,George Orwell,32.27,5,1,A great book about life and adventure.,Miller-Thomas,2000
+142,The Lord of the Rings,J.R.R. Tolkien,46.75,85,5,A great book about life and adventure.,Bonilla-Warner,1992
+143,To Kill a Mockingbird,J.R.R. Tolkien,19.15,45,3,A great book about life and adventure.,Mason-Rivera,2004
+144,The Hobbit,Ray Bradbury,36.92,56,5,A great book about life and adventure.,Boyd PLC,1991
+145,1984,Jane Austen,28.18,4,4,A great book about life and adventure.,Woods-Johnson,2011
+146,Fahrenheit 451,Ray Bradbury,45.92,22,1,A great book about life and adventure.,Casey-Bolton,2017
+147,To Kill a Mockingbird,F. Scott Fitzgerald,15.24,33,1,A great book about life and adventure.,"Banks, Watkins and Miller",2021
+148,To Kill a Mockingbird,J.D. Salinger,16.74,97,3,A great book about life and adventure.,Lambert Ltd,1990
+149,The Catcher in the Rye,George Orwell,22.67,31,4,A great book about life and adventure.,Caldwell-Fischer,2023
+150,Moby-Dick,Jane Austen,25.22,54,3,A great book about life and adventure.,"Patrick, Skinner and Yu",1990
+151,Harry Potter and the Sorcerer's Stone,George Orwell,9.88,29,1,A great book about life and adventure.,Hughes-Holland,1993
+152,Pride and Prejudice,J.D. Salinger,16.52,43,5,A great book about life and adventure.,Manning-Stephens,2019
+153,Harry Potter and the Sorcerer's Stone,Jane Austen,8.2,28,3,A great book about life and adventure.,Smith and Sons,2004
+154,To Kill a Mockingbird,J.R.R. Tolkien,21.59,15,1,A great book about life and adventure.,Davis PLC,2023
+155,The Lord of the Rings,Ray Bradbury,33.52,2,5,A great book about life and adventure.,"Wallace, Dunlap and Torres",2023
+156,The Catcher in the Rye,J.K. Rowling,17.86,44,3,A great book about life and adventure.,"Williams, Thompson and Navarro",2003
+157,Moby-Dick,Ray Bradbury,12.67,48,1,A great book about life and adventure.,"Welch, Hammond and Myers",2005
+158,The Hobbit,J.D. Salinger,29.11,85,2,A great book about life and adventure.,"Thomas, Giles and Marshall",1981
+159,The Great Gatsby,J.D. Salinger,42.38,38,4,A great book about life and adventure.,"Clark, Parker and Wilson",1986
+160,The Great Gatsby,Ray Bradbury,25.12,78,3,A great book about life and adventure.,"Ward, Walker and Green",1987
+161,The Lord of the Rings,Ray Bradbury,26.13,8,4,A great book about life and adventure.,"Owens, Cohen and Valdez",1996
+162,Pride and Prejudice,J.R.R. Tolkien,49.63,79,2,A great book about life and adventure.,Goodwin-Farrell,2023
+163,Moby-Dick,Harper Lee,39.99,73,5,A great book about life and adventure.,Terry PLC,2003
+164,1984,J.K. Rowling,30.26,55,3,A great book about life and adventure.,Russell-Ortiz,2000
+165,Moby-Dick,J.D. Salinger,21.28,99,3,A great book about life and adventure.,"Collins, Smith and Hernandez",2015
+166,Harry Potter and the Sorcerer's Stone,Herman Melville,8.19,45,2,A great book about life and adventure.,"Stewart, Gregory and Martinez",2015
+167,The Great Gatsby,Ray Bradbury,8.81,30,4,A great book about life and adventure.,Miller Group,1993
+168,The Hobbit,J.R.R. Tolkien,43.31,66,1,A great book about life and adventure.,Clarke-Mitchell,1989
+169,The Hobbit,F. Scott Fitzgerald,30.32,76,4,A great book about life and adventure.,Peters-Levine,1998
+170,Harry Potter and the Sorcerer's Stone,J.K. Rowling,8.54,92,5,A great book about life and adventure.,Hamilton and Sons,1993
+171,The Catcher in the Rye,Ray Bradbury,39.31,12,3,A great book about life and adventure.,Middleton and Sons,1980
+172,The Catcher in the Rye,F. Scott Fitzgerald,32.26,34,5,A great book about life and adventure.,"Elliott, Anderson and Benton",1989
+173,Fahrenheit 451,George Orwell,9.19,31,3,A great book about life and adventure.,Delacruz-Garcia,2007
+174,Pride and Prejudice,Jane Austen,12.87,82,1,A great book about life and adventure.,"Smith, Hudson and Dunlap",1985
+175,The Lord of the Rings,J.R.R. Tolkien,14.55,10,4,A great book about life and adventure.,"White, Navarro and Lopez",2020
+176,1984,Ray Bradbury,16.2,86,4,A great book about life and adventure.,Hardin and Sons,2024
+177,The Catcher in the Rye,J.R.R. Tolkien,37.85,79,3,A great book about life and adventure.,Johnson LLC,2002
+178,The Hobbit,J.D. Salinger,45.3,39,5,A great book about life and adventure.,Washington LLC,2022
+179,To Kill a Mockingbird,F. Scott Fitzgerald,9.19,43,2,A great book about life and adventure.,"Smith, Flores and Espinoza",2024
+180,The Lord of the Rings,F. Scott Fitzgerald,35.35,33,1,A great book about life and adventure.,Carroll-Holmes,2008
+181,The Catcher in the Rye,Herman Melville,49.96,43,1,A great book about life and adventure.,"Oneal, Graham and Gill",2010
+182,The Hobbit,J.K. Rowling,46.71,91,1,A great book about life and adventure.,"Hamilton, Torres and Howard",1995
+183,The Great Gatsby,F. Scott Fitzgerald,10.91,57,2,A great book about life and adventure.,Nguyen LLC,1989
+184,The Lord of the Rings,Ray Bradbury,36.89,44,5,A great book about life and adventure.,"Torres, Tucker and Bates",2012
+185,The Catcher in the Rye,J.K. Rowling,6.47,10,1,A great book about life and adventure.,"Wright, Austin and Golden",2022
+186,1984,F. Scott Fitzgerald,24.78,49,5,A great book about life and adventure.,"Grant, Tucker and Anderson",1989
+187,The Great Gatsby,George Orwell,16.11,51,3,A great book about life and adventure.,"Singh, Cervantes and Martin",2010
+188,Fahrenheit 451,Herman Melville,18.44,14,2,A great book about life and adventure.,"Charles, Wood and Moore",1983
+189,The Catcher in the Rye,J.D. Salinger,22.17,36,5,A great book about life and adventure.,Camacho-Buck,1981
+190,The Lord of the Rings,Harper Lee,27.49,12,4,A great book about life and adventure.,Mcintyre-Welch,1996
+191,The Hobbit,J.D. Salinger,17.21,29,5,A great book about life and adventure.,"Webb, Lopez and Irwin",1989
+192,The Lord of the Rings,Harper Lee,20.19,24,5,A great book about life and adventure.,Dougherty-Smith,2022
+193,Pride and Prejudice,J.R.R. Tolkien,23.04,32,2,A great book about life and adventure.,Brown PLC,2001
+194,Fahrenheit 451,J.R.R. Tolkien,38.69,25,4,A great book about life and adventure.,"Curtis, Parks and Webb",2018
+195,To Kill a Mockingbird,J.R.R. Tolkien,42.14,13,4,A great book about life and adventure.,Keller-Munoz,2016
+196,The Lord of the Rings,F. Scott Fitzgerald,13.1,10,3,A great book about life and adventure.,Strickland-Fuller,1996
+197,Fahrenheit 451,J.R.R. Tolkien,38.38,76,2,A great book about life and adventure.,Benjamin-Roberts,2011
+198,Fahrenheit 451,J.K. Rowling,44.53,24,1,A great book about life and adventure.,Brown Ltd,1998
+199,1984,Herman Melville,42.85,55,5,A great book about life and adventure.,"Silva, Barnes and Richmond",2006
+200,The Hobbit,J.R.R. Tolkien,32.88,79,2,A great book about life and adventure.,Adkins and Sons,2008
+201,The Hobbit,George Orwell,41.36,38,5,A great book about life and adventure.,Frey-Ferrell,2001
+202,Fahrenheit 451,J.R.R. Tolkien,25.8,97,5,A great book about life and adventure.,Johnson-Kim,1998
+203,Moby-Dick,Harper Lee,41.14,75,4,A great book about life and adventure.,Cuevas Inc,2003
+204,To Kill a Mockingbird,Jane Austen,23.47,5,2,A great book about life and adventure.,Rogers Ltd,2004
+205,The Great Gatsby,Ray Bradbury,41.88,15,3,A great book about life and adventure.,"Harvey, Chavez and Villegas",2003
+206,The Great Gatsby,Herman Melville,41.73,34,4,A great book about life and adventure.,Jensen-Kirk,1984
+207,Moby-Dick,Herman Melville,25.64,43,5,A great book about life and adventure.,"Best, Chase and Hunter",1999
+208,The Lord of the Rings,F. Scott Fitzgerald,22.04,40,3,A great book about life and adventure.,Carpenter PLC,2011
+209,To Kill a Mockingbird,Herman Melville,35.05,54,3,A great book about life and adventure.,Adams Inc,1985
+210,The Great Gatsby,J.D. Salinger,31.77,6,1,A great book about life and adventure.,Carter-Cook,1998
+211,Harry Potter and the Sorcerer's Stone,F. Scott Fitzgerald,14.49,64,3,A great book about life and adventure.,Sims-Rivas,2020
+212,The Lord of the Rings,J.R.R. Tolkien,14.83,18,5,A great book about life and adventure.,Krueger Inc,1985
+213,Harry Potter and the Sorcerer's Stone,Harper Lee,31.2,56,3,A great book about life and adventure.,Harmon Ltd,2018
+214,The Great Gatsby,J.R.R. Tolkien,16.22,89,4,A great book about life and adventure.,Armstrong Inc,1984
+215,Moby-Dick,J.R.R. Tolkien,28.51,90,2,A great book about life and adventure.,"Kane, Anderson and Graham",1987
+216,Moby-Dick,George Orwell,13.07,68,5,A great book about life and adventure.,Keith-Vance,1988
+217,Pride and Prejudice,J.K. Rowling,44.82,69,3,A great book about life and adventure.,Rodriguez Group,1989
+218,The Lord of the Rings,F. Scott Fitzgerald,44.01,56,5,A great book about life and adventure.,Hendrix LLC,2017
+219,Fahrenheit 451,Harper Lee,21.46,76,1,A great book about life and adventure.,Stevens-Bennett,2023
+220,Moby-Dick,Herman Melville,25.09,16,2,A great book about life and adventure.,Schmitt Inc,2011
+221,Harry Potter and the Sorcerer's Stone,J.R.R. Tolkien,23.42,44,5,A great book about life and adventure.,Baldwin-Archer,2001
+222,The Lord of the Rings,J.K. Rowling,10.61,16,5,A great book about life and adventure.,Anderson-Scott,2022
+223,The Great Gatsby,George Orwell,34.45,28,2,A great book about life and adventure.,Fowler-Foster,1984
+224,Moby-Dick,Ray Bradbury,7.5,55,1,A great book about life and adventure.,Pollard LLC,1995
+225,Moby-Dick,George Orwell,12.95,45,2,A great book about life and adventure.,Woods Ltd,1984
+226,The Hobbit,Herman Melville,45.76,44,3,A great book about life and adventure.,Brown-Flynn,1998
+227,The Great Gatsby,Ray Bradbury,28.69,55,1,A great book about life and adventure.,"Hudson, Mcdonald and Knapp",2001
+228,Pride and Prejudice,Herman Melville,21.36,7,2,A great book about life and adventure.,"Soto, Murphy and Chaney",2005
+229,1984,J.R.R. Tolkien,42.49,98,1,A great book about life and adventure.,Phillips and Sons,1997
+230,Pride and Prejudice,F. Scott Fitzgerald,5.5,9,4,A great book about life and adventure.,"Roberts, Mason and Wong",2017
+231,The Great Gatsby,Jane Austen,40.31,79,4,A great book about life and adventure.,Holden-Mack,2015
+232,The Hobbit,Ray Bradbury,13.53,82,3,A great book about life and adventure.,Henry Inc,1996
+233,The Lord of the Rings,Harper Lee,34.68,56,4,A great book about life and adventure.,Martin-Solis,2014
+234,The Hobbit,Herman Melville,47.46,76,3,A great book about life and adventure.,"Johnson, Morales and Hernandez",1985
+235,Fahrenheit 451,Ray Bradbury,16.52,89,3,A great book about life and adventure.,"Barker, Cook and Riley",1983
+236,The Great Gatsby,Ray Bradbury,19.53,66,2,A great book about life and adventure.,"Taylor, David and Perez",2002
+237,The Catcher in the Rye,F. Scott Fitzgerald,46.88,13,4,A great book about life and adventure.,Smith-Ho,1988
+238,The Great Gatsby,Jane Austen,10.36,49,5,A great book about life and adventure.,"Robertson, Bates and Davis",1997
+239,To Kill a Mockingbird,Herman Melville,34.93,48,3,A great book about life and adventure.,Taylor Group,2004
+240,To Kill a Mockingbird,F. Scott Fitzgerald,38.12,38,3,A great book about life and adventure.,Hamilton-Mclaughlin,2016
+241,To Kill a Mockingbird,Herman Melville,37.64,19,1,A great book about life and adventure.,Parsons-Howard,2000
+242,The Hobbit,J.D. Salinger,11.96,77,2,A great book about life and adventure.,"Gardner, Gillespie and Taylor",2002
+243,1984,J.R.R. Tolkien,17.08,84,5,A great book about life and adventure.,"Rice, Holland and Singh",2017
+244,The Catcher in the Rye,Herman Melville,22.97,83,5,A great book about life and adventure.,"Rodriguez, Thompson and Juarez",1988
+245,1984,Harper Lee,49.22,3,2,A great book about life and adventure.,Carter-Oconnell,2024
+246,Fahrenheit 451,Jane Austen,29.77,27,4,A great book about life and adventure.,Matthews and Sons,1998
+247,Pride and Prejudice,J.R.R. Tolkien,17.3,26,1,A great book about life and adventure.,"Gonzalez, Welch and Rubio",2004
+248,Moby-Dick,F. Scott Fitzgerald,36.08,52,1,A great book about life and adventure.,"Gillespie, Johnson and Moore",1993
+249,The Great Gatsby,F. Scott Fitzgerald,8.64,62,4,A great book about life and adventure.,"Taylor, Fisher and Burke",2013
+250,The Lord of the Rings,Herman Melville,35.74,88,2,A great book about life and adventure.,"Riley, Cannon and Lam",1996
+251,The Hobbit,J.D. Salinger,21.49,77,1,A great book about life and adventure.,Thomas PLC,1994
+252,To Kill a Mockingbird,Jane Austen,26.8,23,2,A great book about life and adventure.,"Macias, Conrad and Chaney",2000
+253,1984,J.D. Salinger,45.45,89,2,A great book about life and adventure.,Oliver Inc,2007
+254,The Lord of the Rings,Ray Bradbury,29.01,23,5,A great book about life and adventure.,"Adams, Mack and Valenzuela",1987
+255,Pride and Prejudice,Ray Bradbury,22.68,51,4,A great book about life and adventure.,Carey-Johnson,1987
+256,Fahrenheit 451,Herman Melville,34.89,59,3,A great book about life and adventure.,Johns-Cooper,2008
+257,To Kill a Mockingbird,J.K. Rowling,49.25,100,3,A great book about life and adventure.,"Stuart, Davenport and Hill",1982
+258,The Great Gatsby,Ray Bradbury,30.33,91,4,A great book about life and adventure.,Travis Group,1993
+259,Moby-Dick,J.R.R. Tolkien,39.72,55,3,A great book about life and adventure.,"Zamora, Hood and Jones",2004
+260,The Catcher in the Rye,Harper Lee,40.89,72,4,A great book about life and adventure.,"Nguyen, Brown and Andrade",1991
+261,Fahrenheit 451,J.K. Rowling,46.25,79,5,A great book about life and adventure.,"Phillips, Smith and Ross",1991
+262,The Lord of the Rings,J.D. Salinger,44.73,93,2,A great book about life and adventure.,"Crawford, West and Evans",2016
+263,The Great Gatsby,J.D. Salinger,22.61,56,4,A great book about life and adventure.,Robinson-Campbell,2023
+264,Pride and Prejudice,F. Scott Fitzgerald,12.56,82,2,A great book about life and adventure.,"Vaughan, Bell and Martinez",2023
+265,Fahrenheit 451,J.D. Salinger,48.51,69,2,A great book about life and adventure.,Kerr and Sons,1986
+266,To Kill a Mockingbird,Herman Melville,6.89,99,5,A great book about life and adventure.,Turner-Johnson,1998
+267,Fahrenheit 451,Harper Lee,39.37,83,2,A great book about life and adventure.,Ramirez LLC,1998
+268,To Kill a Mockingbird,F. Scott Fitzgerald,24.47,47,4,A great book about life and adventure.,"Cervantes, Alvarez and Lara",1981
+269,The Hobbit,Ray Bradbury,26.15,31,3,A great book about life and adventure.,"Johnson, Watkins and Jones",2005
+270,The Hobbit,J.R.R. Tolkien,18.2,77,5,A great book about life and adventure.,"Castaneda, Cuevas and Davis",2014
+271,Moby-Dick,J.D. Salinger,26.12,64,2,A great book about life and adventure.,Clarke-Thompson,2005
+272,1984,J.R.R. Tolkien,12.14,12,2,A great book about life and adventure.,Glover Group,2002
+273,The Hobbit,Jane Austen,22.19,68,1,A great book about life and adventure.,"Avila, Smith and Gonzalez",1996
+274,The Great Gatsby,J.R.R. Tolkien,23.97,96,3,A great book about life and adventure.,Burns-Mills,2015
+275,1984,F. Scott Fitzgerald,37.16,63,4,A great book about life and adventure.,Stokes LLC,2015
+276,The Great Gatsby,George Orwell,27.82,97,3,A great book about life and adventure.,Cook and Sons,2016
+277,To Kill a Mockingbird,George Orwell,25.06,49,4,A great book about life and adventure.,Sampson-Lopez,2001
+278,Harry Potter and the Sorcerer's Stone,Jane Austen,42.25,87,4,A great book about life and adventure.,Montes-Gonzales,1995
+279,The Catcher in the Rye,J.K. Rowling,45.92,82,1,A great book about life and adventure.,Barajas-House,1999
+280,1984,Ray Bradbury,21.89,28,1,A great book about life and adventure.,Foster Group,2002
+281,The Hobbit,F. Scott Fitzgerald,20.37,88,2,A great book about life and adventure.,"Lewis, Smith and Pearson",2019
+282,The Great Gatsby,J.R.R. Tolkien,37.97,83,4,A great book about life and adventure.,Jones-Cordova,2000
+283,To Kill a Mockingbird,George Orwell,7.96,58,4,A great book about life and adventure.,"Becker, May and Rogers",2015
+284,Harry Potter and the Sorcerer's Stone,J.R.R. Tolkien,25.66,4,4,A great book about life and adventure.,Bush-Aguilar,2022
+285,Fahrenheit 451,J.R.R. Tolkien,12.11,86,5,A great book about life and adventure.,Mendez and Sons,2023
+286,Moby-Dick,George Orwell,28.56,57,5,A great book about life and adventure.,Mason-Wilson,2006
+287,The Hobbit,Jane Austen,28.8,47,5,A great book about life and adventure.,Lucas-Caldwell,1981
+288,Harry Potter and the Sorcerer's Stone,Harper Lee,39.05,19,5,A great book about life and adventure.,Brown Inc,1993
+289,Pride and Prejudice,J.K. Rowling,5.91,70,5,A great book about life and adventure.,"Cruz, Russell and Taylor",2014
+290,1984,Harper Lee,8.04,27,3,A great book about life and adventure.,"Caldwell, Barker and Petersen",1986
+291,Moby-Dick,Harper Lee,10.04,76,2,A great book about life and adventure.,Torres-Walker,1996
+292,The Hobbit,Jane Austen,16.97,83,3,A great book about life and adventure.,"Welch, Gonzalez and Alexander",2009
+293,The Catcher in the Rye,J.R.R. Tolkien,44.89,11,3,A great book about life and adventure.,Andrews and Sons,2019
+294,Pride and Prejudice,Ray Bradbury,24.67,14,5,A great book about life and adventure.,Douglas-Pierce,1993
+295,Moby-Dick,George Orwell,36.69,56,3,A great book about life and adventure.,Mills-King,1997
+296,The Lord of the Rings,Herman Melville,26.34,42,2,A great book about life and adventure.,"Green, Rivera and Page",1988
+297,The Great Gatsby,F. Scott Fitzgerald,30.97,68,2,A great book about life and adventure.,"Reed, Padilla and Jordan",2022
+298,To Kill a Mockingbird,Herman Melville,10.38,70,3,A great book about life and adventure.,"Jones, Hernandez and Weber",2010
+299,The Great Gatsby,J.D. Salinger,44.37,79,2,A great book about life and adventure.,Smith PLC,2024
+300,The Hobbit,Jane Austen,10.94,69,3,A great book about life and adventure.,Tran-Bailey,1991
+301,The Great Gatsby,George Orwell,20.82,60,3,A great book about life and adventure.,"Shannon, Graham and Hunt",2014
+302,The Catcher in the Rye,George Orwell,7.72,25,2,A great book about life and adventure.,Roberts-Smith,1991
+303,1984,J.R.R. Tolkien,40.93,56,4,A great book about life and adventure.,"Huynh, Vance and Martin",2007
+304,The Hobbit,Harper Lee,43.31,30,2,A great book about life and adventure.,Matthews Group,1990
+305,Pride and Prejudice,Herman Melville,31.1,41,5,A great book about life and adventure.,"Garcia, Gonzalez and Gregory",2024
+306,The Hobbit,Jane Austen,6.91,8,2,A great book about life and adventure.,"Sloan, Montgomery and Salinas",2017
+307,Moby-Dick,F. Scott Fitzgerald,37.99,78,5,A great book about life and adventure.,Wallace-Coleman,1995
+308,Harry Potter and the Sorcerer's Stone,J.D. Salinger,20.29,55,1,A great book about life and adventure.,"Long, Woodward and Johnson",1991
+309,1984,Harper Lee,23.84,31,1,A great book about life and adventure.,"Garza, Morrow and Mccoy",2005
+310,Moby-Dick,J.R.R. Tolkien,19.68,65,4,A great book about life and adventure.,Campbell Ltd,2011
+311,Harry Potter and the Sorcerer's Stone,Ray Bradbury,32.48,18,4,A great book about life and adventure.,"Miller, Johnson and Campbell",2019
+312,Harry Potter and the Sorcerer's Stone,J.R.R. Tolkien,36.55,20,1,A great book about life and adventure.,Taylor-Brown,2014
+313,The Lord of the Rings,George Orwell,48.61,49,4,A great book about life and adventure.,Curry PLC,1992
+314,The Great Gatsby,J.R.R. Tolkien,18.94,14,4,A great book about life and adventure.,Martinez-Gutierrez,1995
+315,The Lord of the Rings,Jane Austen,42.99,34,5,A great book about life and adventure.,Benton-Walsh,2001
+316,The Lord of the Rings,Harper Lee,33.28,60,5,A great book about life and adventure.,Humphrey-Miller,2011
+317,To Kill a Mockingbird,J.K. Rowling,35.49,48,5,A great book about life and adventure.,"Wilson, Espinoza and Morales",2015
+318,Harry Potter and the Sorcerer's Stone,George Orwell,23.12,79,2,A great book about life and adventure.,"Barnett, Gomez and Fernandez",1992
+319,The Great Gatsby,Ray Bradbury,19.86,20,5,A great book about life and adventure.,Hernandez Inc,2006
+320,To Kill a Mockingbird,J.D. Salinger,46.53,14,1,A great book about life and adventure.,Estes PLC,2020
+321,The Lord of the Rings,J.R.R. Tolkien,29.87,69,3,A great book about life and adventure.,Sanders PLC,2013
+322,1984,George Orwell,29.98,42,5,A great book about life and adventure.,"Henderson, Lane and Perez",1997
+323,Fahrenheit 451,J.R.R. Tolkien,42.89,85,5,A great book about life and adventure.,"Watkins, Ponce and Brady",2006
+324,Moby-Dick,F. Scott Fitzgerald,49.67,66,3,A great book about life and adventure.,"Clay, Young and Taylor",2003
+325,The Lord of the Rings,George Orwell,18.25,15,5,A great book about life and adventure.,Stevens-Stevenson,1984
+326,The Catcher in the Rye,J.K. Rowling,29.81,93,2,A great book about life and adventure.,"Joseph, Morrison and Martinez",2022
+327,To Kill a Mockingbird,J.R.R. Tolkien,24.15,20,2,A great book about life and adventure.,"Jackson, Anderson and Leblanc",1993
+328,1984,George Orwell,27.1,14,4,A great book about life and adventure.,Smith-Villarreal,2023
+329,1984,Ray Bradbury,31.82,55,5,A great book about life and adventure.,Mitchell-Myers,1999
+330,The Catcher in the Rye,Herman Melville,20.86,32,3,A great book about life and adventure.,"Hawkins, Huerta and Villanueva",2002
+331,The Lord of the Rings,J.R.R. Tolkien,23.31,38,2,A great book about life and adventure.,"Winters, Moreno and Padilla",1985
+332,The Great Gatsby,J.K. Rowling,48.58,35,3,A great book about life and adventure.,Taylor LLC,1982
+333,The Great Gatsby,J.D. Salinger,13.88,11,5,A great book about life and adventure.,Anderson Group,2015
+334,The Lord of the Rings,F. Scott Fitzgerald,29.04,48,2,A great book about life and adventure.,Sanchez-Morgan,2006
+335,1984,J.R.R. Tolkien,32.75,44,2,A great book about life and adventure.,"Williams, Parks and Reynolds",2017
+336,To Kill a Mockingbird,Harper Lee,47.98,8,5,A great book about life and adventure.,Hernandez Group,2006
+337,1984,J.R.R. Tolkien,30.08,25,1,A great book about life and adventure.,Kim-Porter,2018
+338,Moby-Dick,Harper Lee,9.43,11,2,A great book about life and adventure.,Rowland Group,2001
+339,Harry Potter and the Sorcerer's Stone,George Orwell,37.47,89,5,A great book about life and adventure.,"Marquez, Conrad and Estrada",2000
+340,The Catcher in the Rye,Herman Melville,15.92,24,1,A great book about life and adventure.,Young and Sons,2024
+341,Fahrenheit 451,F. Scott Fitzgerald,37.45,7,1,A great book about life and adventure.,Williams-Johnson,2019
+342,The Catcher in the Rye,Jane Austen,46.08,81,2,A great book about life and adventure.,Tapia-Mckee,1986
+343,The Catcher in the Rye,J.K. Rowling,12.15,5,1,A great book about life and adventure.,"Barker, Franco and Bush",2002
+344,Pride and Prejudice,Ray Bradbury,48.1,70,5,A great book about life and adventure.,Brewer Group,2005
+345,The Lord of the Rings,Jane Austen,28.43,76,2,A great book about life and adventure.,Sanchez Ltd,1996
+346,Harry Potter and the Sorcerer's Stone,J.D. Salinger,11.14,1,2,A great book about life and adventure.,Frey-Bond,2003
+347,To Kill a Mockingbird,J.R.R. Tolkien,28.99,34,2,A great book about life and adventure.,Richards PLC,1985
+348,The Catcher in the Rye,Herman Melville,46.33,99,3,A great book about life and adventure.,Johnson Ltd,2009
+349,Harry Potter and the Sorcerer's Stone,Harper Lee,45.05,59,4,A great book about life and adventure.,Griffin and Sons,1994
+350,The Catcher in the Rye,J.D. Salinger,49.92,20,1,A great book about life and adventure.,Holt-Garcia,1981
+351,The Hobbit,J.D. Salinger,38.66,91,3,A great book about life and adventure.,"Perez, Elliott and Haas",1994
+352,Moby-Dick,J.D. Salinger,47.22,26,3,A great book about life and adventure.,"Howell, Anderson and Kirk",2012
+353,1984,J.R.R. Tolkien,13.1,5,3,A great book about life and adventure.,"Sanders, Hamilton and Smith",1989
+354,To Kill a Mockingbird,F. Scott Fitzgerald,19.94,39,3,A great book about life and adventure.,"Madden, Aguilar and Swanson",2006
+355,1984,Harper Lee,13.28,35,2,A great book about life and adventure.,Hardin LLC,1990
+356,The Catcher in the Rye,J.K. Rowling,22.9,89,3,A great book about life and adventure.,Maldonado-Barnett,2015
+357,Moby-Dick,Ray Bradbury,9.75,26,4,A great book about life and adventure.,Best-Harrington,1993
+358,Moby-Dick,J.R.R. Tolkien,39.7,80,3,A great book about life and adventure.,Berry-Gonzalez,1981
+359,The Catcher in the Rye,Harper Lee,6.38,27,5,A great book about life and adventure.,Henderson-Rubio,1996
+360,The Lord of the Rings,Jane Austen,38.61,1,5,A great book about life and adventure.,"Miller, Ward and Adams",1986
+361,To Kill a Mockingbird,J.D. Salinger,41.84,50,4,A great book about life and adventure.,Conner-Jordan,2007
+362,Fahrenheit 451,Ray Bradbury,32.31,37,1,A great book about life and adventure.,Dixon Group,1994
+363,Moby-Dick,F. Scott Fitzgerald,49.14,85,5,A great book about life and adventure.,Hester-Roberts,1996
+364,Harry Potter and the Sorcerer's Stone,J.K. Rowling,7.08,56,3,A great book about life and adventure.,"Moyer, Anderson and Miller",2011
+365,The Catcher in the Rye,J.K. Rowling,11.21,89,4,A great book about life and adventure.,Moore-Jacobs,2009
+366,The Catcher in the Rye,F. Scott Fitzgerald,47.2,51,2,A great book about life and adventure.,"Singh, Bell and Mcneil",2013
+367,The Hobbit,Ray Bradbury,6.11,84,1,A great book about life and adventure.,"Black, Swanson and Stone",1989
+368,The Hobbit,J.D. Salinger,48.04,34,2,A great book about life and adventure.,Burke PLC,1980
+369,1984,J.R.R. Tolkien,40.98,98,3,A great book about life and adventure.,"Wang, Phillips and Williams",2016
+370,The Great Gatsby,F. Scott Fitzgerald,14.45,19,2,A great book about life and adventure.,Valentine PLC,2021
+371,To Kill a Mockingbird,J.D. Salinger,40.17,27,1,A great book about life and adventure.,"Greer, Williams and Bradley",1994
+372,Harry Potter and the Sorcerer's Stone,J.R.R. Tolkien,38.67,94,2,A great book about life and adventure.,Martinez-Jackson,1986
+373,Harry Potter and the Sorcerer's Stone,F. Scott Fitzgerald,45.47,18,5,A great book about life and adventure.,Thomas LLC,1989
+374,The Lord of the Rings,Jane Austen,11.24,25,5,A great book about life and adventure.,Orozco PLC,2018
+375,Harry Potter and the Sorcerer's Stone,J.D. Salinger,35.38,29,1,A great book about life and adventure.,"Booth, Erickson and Ruiz",1995
+376,To Kill a Mockingbird,Jane Austen,38.66,2,1,A great book about life and adventure.,Petersen Ltd,2017
+377,Fahrenheit 451,Harper Lee,14.14,14,3,A great book about life and adventure.,"Gonzalez, Berg and Ray",1996
+378,The Catcher in the Rye,Harper Lee,38.92,32,1,A great book about life and adventure.,Williams PLC,2000
+379,Moby-Dick,Ray Bradbury,29.36,81,5,A great book about life and adventure.,"Martinez, Smith and Garcia",2018
+380,Pride and Prejudice,George Orwell,44.51,99,3,A great book about life and adventure.,Phillips-Vargas,2021
+381,1984,J.K. Rowling,39.0,14,1,A great book about life and adventure.,Jones LLC,2000
+382,The Lord of the Rings,Ray Bradbury,29.63,63,4,A great book about life and adventure.,Morris-Ramirez,2011
+383,The Great Gatsby,Herman Melville,10.8,74,3,A great book about life and adventure.,Romero Inc,2012
+384,The Catcher in the Rye,J.K. Rowling,23.43,57,1,A great book about life and adventure.,"Russell, Rhodes and Payne",1997
+385,Harry Potter and the Sorcerer's Stone,Harper Lee,6.06,65,4,A great book about life and adventure.,"Reyes, Morrison and Garrett",1995
+386,Fahrenheit 451,J.R.R. Tolkien,18.37,2,4,A great book about life and adventure.,King-Short,1987
+387,The Great Gatsby,Ray Bradbury,36.13,73,5,A great book about life and adventure.,Spence LLC,2004
+388,Moby-Dick,George Orwell,34.27,95,1,A great book about life and adventure.,Hughes LLC,2013
+389,The Great Gatsby,J.K. Rowling,41.72,13,4,A great book about life and adventure.,Hogan-Thomas,2020
+390,1984,Jane Austen,20.64,76,5,A great book about life and adventure.,Williams-Murphy,1994
+391,The Hobbit,Harper Lee,14.84,45,5,A great book about life and adventure.,Mcclain-Garcia,1980
+392,Harry Potter and the Sorcerer's Stone,Ray Bradbury,34.74,52,1,A great book about life and adventure.,Hoffman-White,2017
+393,To Kill a Mockingbird,J.R.R. Tolkien,30.81,87,2,A great book about life and adventure.,Proctor-Montes,1983
+394,The Lord of the Rings,J.R.R. Tolkien,8.84,26,5,A great book about life and adventure.,Fuller-Warner,1997
+395,The Lord of the Rings,F. Scott Fitzgerald,39.63,36,1,A great book about life and adventure.,Potter Ltd,1990
+396,Moby-Dick,George Orwell,41.31,39,5,A great book about life and adventure.,Williams PLC,1983
+397,The Catcher in the Rye,Harper Lee,22.12,26,3,A great book about life and adventure.,Terry PLC,2010
+398,Pride and Prejudice,F. Scott Fitzgerald,33.22,10,1,A great book about life and adventure.,"Garcia, Lee and Steele",1999
+399,Pride and Prejudice,F. Scott Fitzgerald,9.77,33,5,A great book about life and adventure.,"Gregory, Ford and Jackson",2024
+400,Pride and Prejudice,F. Scott Fitzgerald,27.49,47,3,A great book about life and adventure.,Miller Ltd,1980
+401,Pride and Prejudice,Jane Austen,14.81,84,5,A great book about life and adventure.,"Price, Molina and Garcia",2020
+402,Fahrenheit 451,Harper Lee,49.1,26,3,A great book about life and adventure.,Cox LLC,2015
+403,The Hobbit,J.D. Salinger,32.64,60,1,A great book about life and adventure.,Butler-Merritt,1994
+404,The Great Gatsby,George Orwell,32.85,93,1,A great book about life and adventure.,Baker and Sons,1995
+405,The Catcher in the Rye,Ray Bradbury,22.69,91,5,A great book about life and adventure.,"Miranda, Cook and Scott",1988
+406,1984,F. Scott Fitzgerald,22.53,69,4,A great book about life and adventure.,Huynh-Hill,2016
+407,Fahrenheit 451,F. Scott Fitzgerald,11.65,91,2,A great book about life and adventure.,Holland-Thompson,2012
+408,The Lord of the Rings,Harper Lee,49.49,29,3,A great book about life and adventure.,Santiago Group,2018
+409,Harry Potter and the Sorcerer's Stone,J.R.R. Tolkien,37.88,68,3,A great book about life and adventure.,Cook-Garcia,1997
+410,Harry Potter and the Sorcerer's Stone,Harper Lee,22.91,76,1,A great book about life and adventure.,"Kelley, Brown and Arnold",1993
+411,1984,Jane Austen,16.84,40,3,A great book about life and adventure.,Lane-Robinson,1995
+412,Fahrenheit 451,F. Scott Fitzgerald,17.85,51,2,A great book about life and adventure.,Williams-Fuller,2020
+413,The Lord of the Rings,George Orwell,40.81,76,5,A great book about life and adventure.,Castro PLC,1999
+414,The Great Gatsby,Harper Lee,18.88,66,1,A great book about life and adventure.,"Davis, Lopez and Richmond",1990
+415,The Hobbit,J.R.R. Tolkien,13.52,90,1,A great book about life and adventure.,Martinez PLC,1997
+416,1984,Ray Bradbury,6.49,87,1,A great book about life and adventure.,"Guzman, Branch and Johnson",1981
+417,The Great Gatsby,George Orwell,35.2,43,4,A great book about life and adventure.,Allen-Sandoval,2004
+418,The Hobbit,F. Scott Fitzgerald,48.14,14,1,A great book about life and adventure.,Lang-Brock,1992
+419,The Catcher in the Rye,J.R.R. Tolkien,44.26,58,1,A great book about life and adventure.,"Cook, Hart and Hernandez",2000
+420,The Hobbit,F. Scott Fitzgerald,21.65,96,3,A great book about life and adventure.,Hanson-Garrison,1982
+421,1984,J.R.R. Tolkien,7.68,66,4,A great book about life and adventure.,Wilson PLC,1993
+422,Moby-Dick,J.K. Rowling,10.98,36,3,A great book about life and adventure.,Walker-Morris,2006
+423,Moby-Dick,J.K. Rowling,47.3,23,3,A great book about life and adventure.,"Porter, Chang and Baker",1991
+424,1984,F. Scott Fitzgerald,26.12,63,5,A great book about life and adventure.,Sherman-Johnson,2020
+425,1984,Herman Melville,18.61,72,1,A great book about life and adventure.,Powers-Dean,1997
+426,The Catcher in the Rye,Herman Melville,19.66,15,1,A great book about life and adventure.,Perez-Taylor,2018
+427,The Lord of the Rings,J.D. Salinger,33.36,7,4,A great book about life and adventure.,Robinson Group,1994
+428,Harry Potter and the Sorcerer's Stone,J.D. Salinger,32.64,70,4,A great book about life and adventure.,"Schultz, Mitchell and Medina",1994
+429,Pride and Prejudice,Ray Bradbury,17.43,76,4,A great book about life and adventure.,Cannon and Sons,2013
+430,The Hobbit,J.R.R. Tolkien,28.9,37,4,A great book about life and adventure.,Cole-Joyce,1986
+431,The Catcher in the Rye,Harper Lee,32.25,30,4,A great book about life and adventure.,"Franklin, Burns and Rivas",2014
+432,The Hobbit,George Orwell,8.3,47,2,A great book about life and adventure.,Huynh LLC,2002
+433,The Great Gatsby,J.K. Rowling,22.08,65,3,A great book about life and adventure.,Perkins Group,1984
+434,Harry Potter and the Sorcerer's Stone,George Orwell,9.55,2,2,A great book about life and adventure.,Patterson Ltd,1996
+435,The Hobbit,George Orwell,35.84,2,5,A great book about life and adventure.,"Mcdonald, Vargas and Young",2022
+436,Moby-Dick,F. Scott Fitzgerald,11.77,77,1,A great book about life and adventure.,"Jackson, Cannon and Gross",2009
+437,Fahrenheit 451,J.D. Salinger,38.93,97,4,A great book about life and adventure.,"Williams, Sullivan and Lewis",1995
+438,Pride and Prejudice,Jane Austen,30.83,70,2,A great book about life and adventure.,Hanson-Reed,2007
+439,To Kill a Mockingbird,J.R.R. Tolkien,16.1,56,4,A great book about life and adventure.,Lindsey-Conley,1986
+440,The Great Gatsby,Jane Austen,21.41,70,4,A great book about life and adventure.,Wells and Sons,2021
+441,Moby-Dick,Jane Austen,47.19,53,3,A great book about life and adventure.,"Cohen, Glover and Kane",2005
+442,Moby-Dick,J.R.R. Tolkien,16.79,68,4,A great book about life and adventure.,Lucero LLC,2017
+443,The Lord of the Rings,J.R.R. Tolkien,25.72,76,5,A great book about life and adventure.,"Carroll, Hoover and Mccullough",2024
+444,Harry Potter and the Sorcerer's Stone,J.R.R. Tolkien,47.18,99,1,A great book about life and adventure.,Long Ltd,1991
+445,To Kill a Mockingbird,Ray Bradbury,48.97,73,5,A great book about life and adventure.,Thompson-Rogers,2001
+446,Moby-Dick,Herman Melville,24.06,81,1,A great book about life and adventure.,Chung and Sons,2020
+447,Moby-Dick,George Orwell,14.56,49,2,A great book about life and adventure.,Jenkins-Marshall,2017
+448,Fahrenheit 451,Harper Lee,34.65,83,1,A great book about life and adventure.,"Robinson, Mendez and Ramos",2023
+449,Moby-Dick,Harper Lee,38.72,76,5,A great book about life and adventure.,Williams LLC,2008
+450,The Lord of the Rings,Harper Lee,44.95,13,2,A great book about life and adventure.,Rocha-Fox,2020
+451,The Hobbit,Ray Bradbury,27.78,28,3,A great book about life and adventure.,"Jackson, Garcia and Lee",1983
+452,To Kill a Mockingbird,Herman Melville,6.61,41,5,A great book about life and adventure.,"Pierce, Wilson and Larsen",2022
+453,1984,F. Scott Fitzgerald,25.22,90,3,A great book about life and adventure.,"Day, Ryan and Ruiz",2017
+454,Pride and Prejudice,J.R.R. Tolkien,47.76,30,2,A great book about life and adventure.,Malone-Contreras,2018
+455,The Hobbit,Ray Bradbury,32.79,5,1,A great book about life and adventure.,"Spears, Perez and Vincent",2005
+456,The Catcher in the Rye,Herman Melville,46.49,25,3,A great book about life and adventure.,Love Ltd,1996
+457,To Kill a Mockingbird,F. Scott Fitzgerald,20.62,72,5,A great book about life and adventure.,"Vaughn, Guerrero and Rojas",2013
+458,Pride and Prejudice,Herman Melville,25.91,43,1,A great book about life and adventure.,Norman-Diaz,1999
+459,The Lord of the Rings,George Orwell,39.76,32,1,A great book about life and adventure.,Thomas-Anderson,2000
+460,To Kill a Mockingbird,J.D. Salinger,8.44,71,1,A great book about life and adventure.,"Wilson, Salazar and Solomon",2022
+461,The Catcher in the Rye,F. Scott Fitzgerald,14.49,93,4,A great book about life and adventure.,Becker-Henry,2014
+462,1984,Herman Melville,27.32,47,1,A great book about life and adventure.,"Taylor, Case and Khan",2020
+463,1984,J.R.R. Tolkien,9.95,11,1,A great book about life and adventure.,"Marshall, Walker and Chambers",1994
+464,1984,Jane Austen,28.93,17,1,A great book about life and adventure.,Ramos Ltd,2017
+465,1984,J.D. Salinger,29.22,35,3,A great book about life and adventure.,Carlson-Jones,2000
+466,The Great Gatsby,Ray Bradbury,18.05,26,3,A great book about life and adventure.,Miller-Marshall,2001
+467,1984,Harper Lee,19.8,6,2,A great book about life and adventure.,Jones-Matthews,1999
+468,Pride and Prejudice,Harper Lee,18.16,43,1,A great book about life and adventure.,"Malone, Blake and Simon",2019
+469,The Catcher in the Rye,Harper Lee,26.29,6,5,A great book about life and adventure.,Johnson and Sons,2018
+470,1984,F. Scott Fitzgerald,46.09,1,2,A great book about life and adventure.,Combs Inc,2009
+471,To Kill a Mockingbird,George Orwell,31.23,13,4,A great book about life and adventure.,"Mcgrath, Young and Owens",2000
+472,Moby-Dick,Harper Lee,14.67,58,3,A great book about life and adventure.,"Bennett, Martin and Martinez",1999
+473,To Kill a Mockingbird,Jane Austen,24.14,79,2,A great book about life and adventure.,Howard-Morrow,2002
+474,Pride and Prejudice,Jane Austen,17.13,79,2,A great book about life and adventure.,Reynolds-Osborn,2003
+475,To Kill a Mockingbird,J.R.R. Tolkien,42.79,38,1,A great book about life and adventure.,"Harris, Dunlap and Miller",1996
+476,Moby-Dick,J.D. Salinger,30.78,1,4,A great book about life and adventure.,Simpson-Lopez,2024
+477,Fahrenheit 451,George Orwell,23.96,11,5,A great book about life and adventure.,Garcia PLC,2018
+478,Moby-Dick,Jane Austen,8.26,42,5,A great book about life and adventure.,Riley-Henderson,2014
+479,1984,J.R.R. Tolkien,34.29,91,2,A great book about life and adventure.,Marshall Ltd,2024
+480,Pride and Prejudice,J.R.R. Tolkien,34.8,39,3,A great book about life and adventure.,"Lara, Macdonald and Cooper",1999
+481,The Hobbit,George Orwell,47.91,34,5,A great book about life and adventure.,"Dawson, Rowe and Harris",1988
+482,The Lord of the Rings,Jane Austen,7.04,51,5,A great book about life and adventure.,"Joseph, Mccall and Hodges",2002
+483,Fahrenheit 451,Herman Melville,31.95,47,4,A great book about life and adventure.,"Moore, Singh and Williams",2021
+484,To Kill a Mockingbird,J.R.R. Tolkien,48.99,46,4,A great book about life and adventure.,Johnson Inc,1985
+485,The Catcher in the Rye,J.R.R. Tolkien,36.84,97,2,A great book about life and adventure.,Cantu-Juarez,1991
+486,1984,Herman Melville,45.24,50,3,A great book about life and adventure.,Jones-Wilkinson,1985
+487,1984,George Orwell,11.57,18,3,A great book about life and adventure.,Watson-Atkinson,2009
+488,The Lord of the Rings,J.D. Salinger,46.45,17,2,A great book about life and adventure.,Pitts-Pierce,2015
+489,The Great Gatsby,J.D. Salinger,40.0,44,2,A great book about life and adventure.,"Nelson, Cuevas and Schneider",1994
+490,Moby-Dick,Jane Austen,26.82,16,3,A great book about life and adventure.,Doyle Inc,2006
+491,Fahrenheit 451,Harper Lee,35.84,98,5,A great book about life and adventure.,Harrison and Sons,2015
+492,The Great Gatsby,George Orwell,21.82,74,5,A great book about life and adventure.,Nguyen-Murray,2012
+493,The Great Gatsby,Harper Lee,32.71,97,4,A great book about life and adventure.,Luna Group,2004
+494,The Hobbit,Herman Melville,41.99,84,5,A great book about life and adventure.,"Liu, Evans and Lopez",2009
+495,Harry Potter and the Sorcerer's Stone,J.D. Salinger,47.99,75,2,A great book about life and adventure.,Brown Ltd,1987
+496,Fahrenheit 451,George Orwell,20.92,35,2,A great book about life and adventure.,Cooley Inc,2001
+497,1984,J.R.R. Tolkien,17.69,61,3,A great book about life and adventure.,Payne-Rush,1985
+498,The Catcher in the Rye,J.R.R. Tolkien,33.43,81,2,A great book about life and adventure.,"Gibson, Sandoval and Vaughn",2002
+499,The Great Gatsby,J.R.R. Tolkien,28.83,69,4,A great book about life and adventure.,"Hernandez, Conrad and Patrick",2013
+500,The Lord of the Rings,Ray Bradbury,33.13,69,2,A great book about life and adventure.,"Hoffman, Walker and Grant",2002
+501,Harry Potter and the Sorcerer's Stone,George Orwell,15.08,8,2,A great book about life and adventure.,Ellison Group,1994
+502,The Great Gatsby,J.D. Salinger,12.7,48,1,A great book about life and adventure.,Myers-Lin,1988
+503,To Kill a Mockingbird,J.K. Rowling,43.78,35,3,A great book about life and adventure.,Velasquez-Byrd,2019
+504,Moby-Dick,Jane Austen,30.41,52,4,A great book about life and adventure.,Morris Inc,2007
+505,The Great Gatsby,J.R.R. Tolkien,38.0,7,5,A great book about life and adventure.,"Crawford, Miles and Mccarthy",1989
+506,Moby-Dick,J.R.R. Tolkien,8.87,99,5,A great book about life and adventure.,Brown-Thompson,1982
+507,Fahrenheit 451,J.R.R. Tolkien,31.88,56,1,A great book about life and adventure.,"Acosta, Rice and Long",2000
+508,The Great Gatsby,J.R.R. Tolkien,20.8,90,2,A great book about life and adventure.,Pearson Ltd,2022
+509,Fahrenheit 451,J.K. Rowling,19.85,73,3,A great book about life and adventure.,Nguyen PLC,2002
+510,Fahrenheit 451,Ray Bradbury,45.05,7,4,A great book about life and adventure.,Ross-Lewis,2005
+511,To Kill a Mockingbird,Jane Austen,12.59,50,3,A great book about life and adventure.,Paul Group,1996
+512,Moby-Dick,J.D. Salinger,15.13,70,2,A great book about life and adventure.,Ramirez-Weiss,1980
+513,Fahrenheit 451,J.R.R. Tolkien,30.33,75,5,A great book about life and adventure.,Jones-Conley,1984
+514,The Great Gatsby,J.K. Rowling,9.33,91,5,A great book about life and adventure.,Dominguez-Webb,2022
+515,The Catcher in the Rye,J.R.R. Tolkien,12.15,18,2,A great book about life and adventure.,"Smith, Greene and Oneal",2017
+516,1984,Herman Melville,11.73,21,3,A great book about life and adventure.,"Black, Mendez and Craig",1989
+517,To Kill a Mockingbird,J.D. Salinger,46.15,90,5,A great book about life and adventure.,Parker and Sons,1990
+518,Fahrenheit 451,J.R.R. Tolkien,12.57,79,1,A great book about life and adventure.,Garcia-Garza,2004
+519,Pride and Prejudice,Jane Austen,25.43,17,2,A great book about life and adventure.,"Hoffman, Brown and Williams",2014
+520,Pride and Prejudice,J.D. Salinger,11.42,10,4,A great book about life and adventure.,"Smith, Burns and Santiago",2002
+521,Pride and Prejudice,J.D. Salinger,14.26,3,4,A great book about life and adventure.,"Anthony, Lee and Bryant",2011
+522,Fahrenheit 451,J.R.R. Tolkien,29.91,67,3,A great book about life and adventure.,Knight PLC,2013
+523,The Great Gatsby,J.K. Rowling,20.41,59,1,A great book about life and adventure.,"Gardner, Delgado and Robinson",2010
+524,The Catcher in the Rye,Herman Melville,10.95,58,2,A great book about life and adventure.,Patton-Higgins,1994
+525,The Catcher in the Rye,Ray Bradbury,30.04,17,3,A great book about life and adventure.,Bolton and Sons,2017
+526,1984,Ray Bradbury,20.37,83,4,A great book about life and adventure.,Hutchinson LLC,2016
+527,Harry Potter and the Sorcerer's Stone,J.R.R. Tolkien,8.78,87,2,A great book about life and adventure.,Bradshaw Ltd,1997
+528,Fahrenheit 451,J.D. Salinger,25.25,90,2,A great book about life and adventure.,James PLC,2000
+529,To Kill a Mockingbird,Harper Lee,23.48,24,2,A great book about life and adventure.,Wong Group,2006
+530,The Catcher in the Rye,Harper Lee,10.44,72,5,A great book about life and adventure.,Daniel Group,2009
+531,Fahrenheit 451,J.R.R. Tolkien,24.38,74,4,A great book about life and adventure.,Smith Inc,2019
+532,The Lord of the Rings,Ray Bradbury,8.34,67,5,A great book about life and adventure.,Alvarez-Calderon,2023
+533,Fahrenheit 451,Harper Lee,42.79,95,4,A great book about life and adventure.,"Miller, Aguilar and Fox",1990
+534,1984,Jane Austen,17.27,34,5,A great book about life and adventure.,Andrade-Ramirez,2024
+535,Pride and Prejudice,J.D. Salinger,32.31,37,2,A great book about life and adventure.,Chang Ltd,2020
+536,The Hobbit,Herman Melville,27.5,85,3,A great book about life and adventure.,Robinson-Perez,2022
+537,The Hobbit,J.D. Salinger,8.15,63,2,A great book about life and adventure.,Ramirez-Johnson,1992
+538,Moby-Dick,J.K. Rowling,8.76,2,4,A great book about life and adventure.,"Garcia, Gilbert and Baker",2009
+539,The Hobbit,George Orwell,47.74,89,4,A great book about life and adventure.,Rivera Group,1986
+540,1984,J.R.R. Tolkien,8.88,91,2,A great book about life and adventure.,Douglas PLC,1991
+541,Harry Potter and the Sorcerer's Stone,Ray Bradbury,28.27,57,2,A great book about life and adventure.,Burns Ltd,2010
+542,The Catcher in the Rye,J.R.R. Tolkien,33.58,14,3,A great book about life and adventure.,"Santos, Moody and Ryan",2007
+543,The Hobbit,J.D. Salinger,22.19,66,2,A great book about life and adventure.,Jackson and Sons,2001
+544,Moby-Dick,Harper Lee,46.89,7,3,A great book about life and adventure.,Velez-Smith,1993
+545,The Hobbit,F. Scott Fitzgerald,30.76,98,4,A great book about life and adventure.,Dunlap Group,1990
+546,The Great Gatsby,J.R.R. Tolkien,8.05,32,5,A great book about life and adventure.,"Mcclure, Thompson and Sandoval",1986
+547,The Great Gatsby,J.K. Rowling,33.88,15,5,A great book about life and adventure.,Mueller Inc,2006
+548,1984,J.D. Salinger,48.49,13,4,A great book about life and adventure.,"Hill, Marshall and Williams",1982
+549,Pride and Prejudice,F. Scott Fitzgerald,22.32,91,3,A great book about life and adventure.,Montgomery Inc,2007
+550,The Great Gatsby,J.R.R. Tolkien,43.55,90,4,A great book about life and adventure.,"Jones, Chan and Meadows",2023
+551,Moby-Dick,Jane Austen,25.14,92,4,A great book about life and adventure.,"Conrad, Morton and Chavez",2024
+552,The Lord of the Rings,F. Scott Fitzgerald,11.06,33,3,A great book about life and adventure.,Knox-Lawson,2024
+553,The Catcher in the Rye,J.D. Salinger,37.07,41,5,A great book about life and adventure.,"Perry, Snyder and Meyers",2006
+554,The Lord of the Rings,Ray Bradbury,12.65,57,4,A great book about life and adventure.,Bryan-Parks,2004
+555,The Hobbit,Ray Bradbury,13.59,86,2,A great book about life and adventure.,"Salazar, Barton and Bates",2008
+556,The Great Gatsby,Harper Lee,48.39,43,4,A great book about life and adventure.,Smith-Houston,2015
+557,The Lord of the Rings,Harper Lee,15.89,9,5,A great book about life and adventure.,Collier-Tran,2023
+558,Fahrenheit 451,Harper Lee,23.87,28,1,A great book about life and adventure.,"Patterson, Clark and Lane",2020
+559,The Catcher in the Rye,Herman Melville,10.5,70,3,A great book about life and adventure.,Green-Lambert,1980
+560,To Kill a Mockingbird,Herman Melville,43.75,65,2,A great book about life and adventure.,"Oneal, Johnson and Johnson",1998
+561,1984,Jane Austen,36.43,52,3,A great book about life and adventure.,Rodriguez-Wagner,2004
+562,Pride and Prejudice,J.D. Salinger,46.8,64,3,A great book about life and adventure.,"Potter, Pugh and Collins",2015
+563,To Kill a Mockingbird,J.R.R. Tolkien,41.9,89,5,A great book about life and adventure.,Perez and Sons,2005
+564,Harry Potter and the Sorcerer's Stone,J.R.R. Tolkien,36.02,32,1,A great book about life and adventure.,Moreno LLC,2011
+565,The Great Gatsby,Ray Bradbury,10.82,86,3,A great book about life and adventure.,"Herring, Edwards and Alvarado",1992
+566,Fahrenheit 451,F. Scott Fitzgerald,10.75,51,1,A great book about life and adventure.,"Marshall, Wells and Garner",1982
+567,The Lord of the Rings,J.R.R. Tolkien,43.33,38,1,A great book about life and adventure.,Wallace LLC,2003
+568,1984,J.K. Rowling,29.37,50,3,A great book about life and adventure.,Oliver Inc,2007
+569,The Catcher in the Rye,Ray Bradbury,47.23,14,3,A great book about life and adventure.,Bell-Mora,2013
+570,The Lord of the Rings,Herman Melville,10.69,2,5,A great book about life and adventure.,Taylor and Sons,1985
+571,Harry Potter and the Sorcerer's Stone,J.D. Salinger,39.34,50,5,A great book about life and adventure.,Johnson-Peterson,1989
+572,Harry Potter and the Sorcerer's Stone,Jane Austen,17.04,40,4,A great book about life and adventure.,"Smith, Cooper and Trevino",2004
+573,The Lord of the Rings,Jane Austen,31.26,14,1,A great book about life and adventure.,"Rodriguez, Thomas and Mitchell",2023
+574,Harry Potter and the Sorcerer's Stone,J.K. Rowling,11.55,64,4,A great book about life and adventure.,"Campbell, Lopez and Wagner",1988
+575,The Catcher in the Rye,George Orwell,44.91,30,1,A great book about life and adventure.,"Barker, Leach and Holden",1989
+576,Fahrenheit 451,J.D. Salinger,10.68,44,1,A great book about life and adventure.,Evans Ltd,1991
+577,1984,J.R.R. Tolkien,49.32,39,2,A great book about life and adventure.,Reynolds-Harris,2009
+578,The Great Gatsby,J.D. Salinger,17.95,6,4,A great book about life and adventure.,Le-Nelson,2023
+579,Fahrenheit 451,F. Scott Fitzgerald,29.92,1,1,A great book about life and adventure.,"Taylor, Castro and Johnson",1982
+580,The Great Gatsby,Jane Austen,28.6,10,4,A great book about life and adventure.,"Mason, Hernandez and Perkins",2016
+581,Moby-Dick,Jane Austen,5.35,10,1,A great book about life and adventure.,"Taylor, Walker and Cline",1986
+582,To Kill a Mockingbird,F. Scott Fitzgerald,39.52,7,5,A great book about life and adventure.,Gregory PLC,2000
+583,The Great Gatsby,George Orwell,10.67,100,3,A great book about life and adventure.,Ross Inc,1995
+584,Harry Potter and the Sorcerer's Stone,J.D. Salinger,14.93,76,3,A great book about life and adventure.,Sanchez-George,2016
+585,Fahrenheit 451,Jane Austen,25.76,18,2,A great book about life and adventure.,Hendricks Inc,2006
+586,The Lord of the Rings,Jane Austen,25.65,87,2,A great book about life and adventure.,"Frank, Larson and Shaffer",1997
+587,1984,J.R.R. Tolkien,13.66,23,4,A great book about life and adventure.,"Becker, Huynh and Wood",2001
+588,1984,J.K. Rowling,13.25,32,1,A great book about life and adventure.,Morales Inc,2018
+589,Pride and Prejudice,Herman Melville,22.32,15,2,A great book about life and adventure.,Simmons Group,1987
+590,Pride and Prejudice,Herman Melville,7.77,44,4,A great book about life and adventure.,Hardy Inc,2024
+591,Harry Potter and the Sorcerer's Stone,J.R.R. Tolkien,7.77,82,3,A great book about life and adventure.,Schultz Ltd,2019
+592,The Lord of the Rings,George Orwell,22.77,9,2,A great book about life and adventure.,"Kelly, Griffin and Sanchez",2012
+593,The Hobbit,Ray Bradbury,8.94,71,2,A great book about life and adventure.,"Thomas, Wood and Baker",2018
+594,Harry Potter and the Sorcerer's Stone,J.R.R. Tolkien,16.68,8,1,A great book about life and adventure.,Lara-Lee,2008
+595,The Great Gatsby,George Orwell,17.36,58,3,A great book about life and adventure.,Wiley LLC,2023
+596,To Kill a Mockingbird,Herman Melville,41.32,28,2,A great book about life and adventure.,White Group,2017
+597,Pride and Prejudice,J.K. Rowling,30.86,72,2,A great book about life and adventure.,Sherman Inc,2015
+598,Pride and Prejudice,F. Scott Fitzgerald,5.18,37,3,A great book about life and adventure.,Peterson-Young,2002
+599,The Great Gatsby,J.R.R. Tolkien,11.21,65,2,A great book about life and adventure.,Rodriguez-Middleton,1984
+600,1984,J.D. Salinger,19.41,81,3,A great book about life and adventure.,Taylor-Bridges,1988
+601,To Kill a Mockingbird,F. Scott Fitzgerald,7.32,66,1,A great book about life and adventure.,"Hayes, Thompson and Martinez",2021
+602,1984,Harper Lee,42.95,28,5,A great book about life and adventure.,Woodward and Sons,2006
+603,1984,Harper Lee,23.25,41,2,A great book about life and adventure.,Shepard-Johnson,1999
+604,To Kill a Mockingbird,Harper Lee,47.17,43,1,A great book about life and adventure.,Juarez and Sons,1993
+605,The Catcher in the Rye,Harper Lee,23.56,7,4,A great book about life and adventure.,"Brown, Wilson and Lane",2012
+606,Harry Potter and the Sorcerer's Stone,J.R.R. Tolkien,22.83,90,5,A great book about life and adventure.,"Huerta, Jones and Larson",1994
+607,The Lord of the Rings,Herman Melville,38.32,48,5,A great book about life and adventure.,Chavez-Dillon,1998
+608,Moby-Dick,J.K. Rowling,7.76,87,1,A great book about life and adventure.,Franklin-Lowe,1998
+609,The Lord of the Rings,Harper Lee,44.7,35,2,A great book about life and adventure.,Walton and Sons,1989
+610,To Kill a Mockingbird,Herman Melville,45.4,44,1,A great book about life and adventure.,"Roman, Mason and Bryant",2019
+611,Harry Potter and the Sorcerer's Stone,Jane Austen,23.62,69,2,A great book about life and adventure.,Reyes-Lyons,1994
+612,Fahrenheit 451,Harper Lee,29.77,5,4,A great book about life and adventure.,Goodman-Grant,1996
+613,The Great Gatsby,Jane Austen,18.03,93,3,A great book about life and adventure.,"Hampton, Mccann and Cruz",2014
+614,The Lord of the Rings,Ray Bradbury,44.35,71,1,A great book about life and adventure.,"Lee, Carter and Clayton",1996
+615,The Catcher in the Rye,J.D. Salinger,38.81,14,3,A great book about life and adventure.,Martinez Inc,1983
+616,Moby-Dick,George Orwell,14.56,86,4,A great book about life and adventure.,Wallace-Ford,2013
+617,Fahrenheit 451,George Orwell,36.39,20,4,A great book about life and adventure.,Mendez-Estes,2000
+618,To Kill a Mockingbird,Harper Lee,19.78,89,3,A great book about life and adventure.,Burke-Hawkins,2014
+619,Moby-Dick,J.K. Rowling,22.66,36,4,A great book about life and adventure.,"Johnson, Cruz and Miller",2016
+620,The Hobbit,Ray Bradbury,14.22,74,2,A great book about life and adventure.,"Hughes, Brooks and Delgado",1994
+621,Fahrenheit 451,Jane Austen,30.47,4,4,A great book about life and adventure.,Quinn-Nguyen,2014
+622,The Hobbit,J.R.R. Tolkien,21.69,18,2,A great book about life and adventure.,"Kelly, Chavez and Thompson",1990
+623,The Catcher in the Rye,Jane Austen,31.12,34,3,A great book about life and adventure.,Johnson Inc,1992
+624,1984,Herman Melville,48.26,17,1,A great book about life and adventure.,"Herman, Cuevas and Hill",2012
+625,The Hobbit,F. Scott Fitzgerald,24.01,100,1,A great book about life and adventure.,Turner Group,2018
+626,The Lord of the Rings,Ray Bradbury,7.87,10,5,A great book about life and adventure.,Reeves Inc,2015
+627,The Catcher in the Rye,Ray Bradbury,47.87,16,2,A great book about life and adventure.,Harrison Group,1988
+628,To Kill a Mockingbird,Herman Melville,37.1,77,5,A great book about life and adventure.,Clark-Harrison,2007
+629,The Catcher in the Rye,Jane Austen,18.81,6,2,A great book about life and adventure.,Conley-Stanton,1982
+630,To Kill a Mockingbird,F. Scott Fitzgerald,38.25,61,5,A great book about life and adventure.,Mitchell-Hardy,1993
+631,Harry Potter and the Sorcerer's Stone,Harper Lee,19.63,11,1,A great book about life and adventure.,Rose Group,2011
+632,To Kill a Mockingbird,Herman Melville,31.91,84,1,A great book about life and adventure.,Moore LLC,1998
+633,1984,J.D. Salinger,28.28,91,1,A great book about life and adventure.,Shaw PLC,2023
+634,Fahrenheit 451,Herman Melville,29.55,8,3,A great book about life and adventure.,Williams Ltd,1999
+635,Harry Potter and the Sorcerer's Stone,George Orwell,35.24,8,2,A great book about life and adventure.,Mcneil LLC,1981
+636,To Kill a Mockingbird,George Orwell,29.25,61,2,A great book about life and adventure.,Ross-Short,2000
+637,Fahrenheit 451,Ray Bradbury,8.09,28,5,A great book about life and adventure.,Barnes-Green,2018
+638,Fahrenheit 451,F. Scott Fitzgerald,35.92,52,1,A great book about life and adventure.,Wyatt and Sons,1991
+639,Pride and Prejudice,Harper Lee,48.0,34,4,A great book about life and adventure.,Reed-Robinson,2012
+640,Moby-Dick,George Orwell,46.93,76,5,A great book about life and adventure.,"Harvey, Medina and Kramer",1990
+641,The Catcher in the Rye,Jane Austen,38.15,68,4,A great book about life and adventure.,Nguyen-Gonzalez,1996
+642,The Hobbit,Jane Austen,16.48,45,2,A great book about life and adventure.,Ward Group,2016
+643,Pride and Prejudice,Herman Melville,21.21,65,5,A great book about life and adventure.,Martinez-Ramirez,2015
+644,Moby-Dick,F. Scott Fitzgerald,13.06,58,1,A great book about life and adventure.,"Moore, Lawson and Newton",1993
+645,The Lord of the Rings,J.R.R. Tolkien,7.4,89,2,A great book about life and adventure.,Perry and Sons,2009
+646,The Great Gatsby,Harper Lee,17.21,51,4,A great book about life and adventure.,Taylor-Hernandez,2022
+647,To Kill a Mockingbird,Herman Melville,46.27,30,2,A great book about life and adventure.,Ho Ltd,2014
+648,Fahrenheit 451,Ray Bradbury,27.38,85,2,A great book about life and adventure.,Miranda-Sullivan,1981
+649,Pride and Prejudice,Ray Bradbury,31.12,96,3,A great book about life and adventure.,Burke-House,1992
+650,To Kill a Mockingbird,Jane Austen,30.76,25,2,A great book about life and adventure.,Green Group,1997
+651,Harry Potter and the Sorcerer's Stone,J.D. Salinger,46.19,80,1,A great book about life and adventure.,Hill-Woodard,2024
+652,The Catcher in the Rye,J.R.R. Tolkien,33.82,24,4,A great book about life and adventure.,Smith Inc,2016
+653,Pride and Prejudice,J.R.R. Tolkien,34.17,69,2,A great book about life and adventure.,Hill-Yu,1998
+654,To Kill a Mockingbird,F. Scott Fitzgerald,33.98,25,3,A great book about life and adventure.,"Spencer, Lee and Harrington",2001
+655,Pride and Prejudice,Herman Melville,31.45,56,4,A great book about life and adventure.,"Adams, Barnes and Ortiz",2020
+656,Moby-Dick,George Orwell,39.67,3,3,A great book about life and adventure.,Hood Ltd,2011
+657,Moby-Dick,George Orwell,47.31,67,2,A great book about life and adventure.,"Jackson, Williams and Wilson",1990
+658,To Kill a Mockingbird,Herman Melville,13.78,51,4,A great book about life and adventure.,Torres-Ferguson,2022
+659,The Catcher in the Rye,Herman Melville,39.51,95,3,A great book about life and adventure.,Martinez-Fox,1992
+660,The Great Gatsby,Herman Melville,27.55,89,5,A great book about life and adventure.,Nelson-Jimenez,2011
+661,The Hobbit,F. Scott Fitzgerald,36.68,82,1,A great book about life and adventure.,Moore Group,2000
+662,The Great Gatsby,J.R.R. Tolkien,33.0,82,5,A great book about life and adventure.,"Howard, Gibson and Johnson",2003
+663,The Hobbit,J.R.R. Tolkien,30.93,87,4,A great book about life and adventure.,Edwards-Ingram,1984
+664,The Catcher in the Rye,J.R.R. Tolkien,19.85,61,1,A great book about life and adventure.,"Hernandez, Lamb and Baker",2006
+665,To Kill a Mockingbird,J.D. Salinger,41.46,89,5,A great book about life and adventure.,Lang Ltd,2005
+666,The Great Gatsby,Herman Melville,30.6,87,1,A great book about life and adventure.,Love Group,1980
+667,1984,J.K. Rowling,36.18,8,5,A great book about life and adventure.,"Bradley, Cox and Lawson",2024
+668,The Hobbit,F. Scott Fitzgerald,29.96,16,2,A great book about life and adventure.,Hansen Inc,2024
+669,1984,Jane Austen,13.88,59,4,A great book about life and adventure.,Sullivan LLC,2007
+670,The Great Gatsby,F. Scott Fitzgerald,13.69,85,2,A great book about life and adventure.,Osborne and Sons,1997
+671,The Hobbit,Harper Lee,26.86,46,4,A great book about life and adventure.,Cobb Ltd,1986
+672,Moby-Dick,J.K. Rowling,43.77,40,1,A great book about life and adventure.,"Rogers, Mills and Crawford",2001
+673,Pride and Prejudice,Herman Melville,18.6,49,5,A great book about life and adventure.,"Medina, Daugherty and Barnes",2015
+674,The Great Gatsby,Herman Melville,30.75,8,2,A great book about life and adventure.,Lewis-Bond,1988
+675,1984,Ray Bradbury,26.68,74,4,A great book about life and adventure.,"Wolfe, Williams and Vargas",1982
+676,Moby-Dick,J.R.R. Tolkien,28.74,1,5,A great book about life and adventure.,"Chang, Buchanan and Spencer",2001
+677,1984,Herman Melville,30.54,100,2,A great book about life and adventure.,Gonzalez-Pratt,1990
+678,Pride and Prejudice,F. Scott Fitzgerald,38.92,95,1,A great book about life and adventure.,Rice-Ellis,1989
+679,The Catcher in the Rye,Herman Melville,42.48,22,4,A great book about life and adventure.,Solomon-Phillips,1981
+680,Moby-Dick,Harper Lee,10.65,84,4,A great book about life and adventure.,"Lopez, Anderson and Lee",2013
+681,Moby-Dick,J.R.R. Tolkien,5.6,30,3,A great book about life and adventure.,Nguyen Group,2018
+682,Harry Potter and the Sorcerer's Stone,Harper Lee,11.47,94,1,A great book about life and adventure.,Monroe PLC,2012
+683,The Great Gatsby,J.R.R. Tolkien,32.27,19,4,A great book about life and adventure.,Carroll Ltd,2022
+684,Pride and Prejudice,F. Scott Fitzgerald,23.22,7,1,A great book about life and adventure.,"Perez, White and Anderson",1999
+685,Harry Potter and the Sorcerer's Stone,J.D. Salinger,30.98,95,3,A great book about life and adventure.,"Miranda, Rivera and Johnson",1997
+686,1984,George Orwell,30.01,10,4,A great book about life and adventure.,Wright PLC,1988
+687,Fahrenheit 451,George Orwell,34.4,54,5,A great book about life and adventure.,Smith-Clark,2021
+688,Harry Potter and the Sorcerer's Stone,J.D. Salinger,42.86,46,4,A great book about life and adventure.,Stephens Group,2019
+689,The Hobbit,Ray Bradbury,23.76,56,3,A great book about life and adventure.,"Garcia, Miller and Benson",2016
+690,Harry Potter and the Sorcerer's Stone,Ray Bradbury,28.46,91,5,A great book about life and adventure.,"Serrano, Jackson and Lopez",2003
+691,The Catcher in the Rye,George Orwell,39.86,5,3,A great book about life and adventure.,Stout-House,1980
+692,Pride and Prejudice,Herman Melville,35.66,74,1,A great book about life and adventure.,Madden Group,2005
+693,Moby-Dick,J.R.R. Tolkien,30.82,28,2,A great book about life and adventure.,"Allen, Brown and Morris",2007
+694,The Great Gatsby,J.R.R. Tolkien,14.12,54,4,A great book about life and adventure.,"Smith, Alvarez and Bridges",2010
+695,The Hobbit,J.R.R. Tolkien,10.03,30,4,A great book about life and adventure.,Henderson-Cuevas,2001
+696,Pride and Prejudice,J.D. Salinger,22.92,89,4,A great book about life and adventure.,Martinez-Lawrence,1999
+697,Harry Potter and the Sorcerer's Stone,Harper Lee,23.75,95,5,A great book about life and adventure.,"Osborne, Gutierrez and Lewis",1989
+698,Harry Potter and the Sorcerer's Stone,J.R.R. Tolkien,42.49,57,4,A great book about life and adventure.,Johnson-Sullivan,2003
+699,Fahrenheit 451,Herman Melville,39.51,70,1,A great book about life and adventure.,"Cobb, Ford and Davidson",1982
+700,1984,J.D. Salinger,46.21,25,1,A great book about life and adventure.,"Kelley, Phillips and Keller",1998
+701,Fahrenheit 451,J.R.R. Tolkien,40.77,30,5,A great book about life and adventure.,Lopez Group,2014
+702,The Great Gatsby,J.R.R. Tolkien,9.93,39,3,A great book about life and adventure.,Lynch LLC,2020
+703,1984,J.R.R. Tolkien,6.32,65,5,A great book about life and adventure.,Velazquez-Johnson,1991
+704,Moby-Dick,Herman Melville,33.59,54,3,A great book about life and adventure.,Brady-Lee,1997
+705,Harry Potter and the Sorcerer's Stone,J.D. Salinger,27.8,55,3,A great book about life and adventure.,"Hays, Fernandez and Reynolds",1994
+706,To Kill a Mockingbird,J.D. Salinger,29.7,39,1,A great book about life and adventure.,Reyes and Sons,2002
+707,The Catcher in the Rye,Ray Bradbury,12.31,88,2,A great book about life and adventure.,Green-Farmer,2001
+708,1984,J.R.R. Tolkien,14.35,50,5,A great book about life and adventure.,James-Walsh,2005
+709,Fahrenheit 451,Jane Austen,22.42,24,2,A great book about life and adventure.,Crawford-Shaw,1988
+710,Harry Potter and the Sorcerer's Stone,George Orwell,24.83,46,5,A great book about life and adventure.,"Foster, Ortega and Willis",2024
+711,Harry Potter and the Sorcerer's Stone,J.D. Salinger,14.26,6,5,A great book about life and adventure.,Martin-Salas,1999
+712,Harry Potter and the Sorcerer's Stone,George Orwell,44.63,44,3,A great book about life and adventure.,Gilbert-Willis,2017
+713,Harry Potter and the Sorcerer's Stone,J.K. Rowling,17.73,31,3,A great book about life and adventure.,"Oneill, Clark and Olson",1991
+714,The Hobbit,Jane Austen,14.45,39,5,A great book about life and adventure.,"Wood, Mccall and Calderon",2003
+715,The Hobbit,Ray Bradbury,15.16,8,2,A great book about life and adventure.,Green LLC,2015
+716,The Lord of the Rings,J.R.R. Tolkien,16.11,3,5,A great book about life and adventure.,Foley PLC,2003
+717,The Hobbit,J.D. Salinger,30.41,51,3,A great book about life and adventure.,Zuniga PLC,2013
+718,The Hobbit,Ray Bradbury,31.63,100,2,A great book about life and adventure.,Duncan Ltd,2011
+719,The Great Gatsby,J.D. Salinger,46.93,22,4,A great book about life and adventure.,"Carr, Berry and Chen",2003
+720,The Lord of the Rings,J.D. Salinger,48.63,46,3,A great book about life and adventure.,Ramos-Garcia,2001
+721,The Great Gatsby,J.D. Salinger,27.54,53,3,A great book about life and adventure.,"Griffin, Clark and Hogan",1981
+722,The Catcher in the Rye,F. Scott Fitzgerald,26.24,80,1,A great book about life and adventure.,"White, Morgan and White",2003
+723,Harry Potter and the Sorcerer's Stone,Harper Lee,21.66,8,2,A great book about life and adventure.,"Kelly, Rojas and Sutton",1981
+724,Moby-Dick,Harper Lee,29.51,17,1,A great book about life and adventure.,"Carlson, Ochoa and Santos",2007
+725,The Catcher in the Rye,Jane Austen,41.46,5,2,A great book about life and adventure.,Elliott Ltd,1985
+726,Pride and Prejudice,J.R.R. Tolkien,26.94,70,2,A great book about life and adventure.,David Inc,1986
+727,The Hobbit,F. Scott Fitzgerald,48.06,80,3,A great book about life and adventure.,Ford PLC,1995
+728,Fahrenheit 451,J.K. Rowling,23.32,69,2,A great book about life and adventure.,"Larson, White and Williams",1998
+729,The Lord of the Rings,Jane Austen,49.6,17,2,A great book about life and adventure.,Schneider-Brown,1980
+730,The Great Gatsby,J.D. Salinger,32.91,23,5,A great book about life and adventure.,"Hanson, Kim and Moore",1999
+731,The Catcher in the Rye,J.R.R. Tolkien,41.0,35,3,A great book about life and adventure.,Jackson Ltd,2005
+732,Pride and Prejudice,J.K. Rowling,14.52,83,3,A great book about life and adventure.,Turner Group,1998
+733,Harry Potter and the Sorcerer's Stone,George Orwell,37.82,92,5,A great book about life and adventure.,"Hughes, Combs and Watson",1994
+734,The Great Gatsby,Herman Melville,43.09,59,2,A great book about life and adventure.,Thomas PLC,2020
+735,Pride and Prejudice,Harper Lee,12.22,75,1,A great book about life and adventure.,Malone LLC,1982
+736,Harry Potter and the Sorcerer's Stone,Harper Lee,21.44,48,5,A great book about life and adventure.,"Nunez, Davis and Wilson",2011
+737,The Lord of the Rings,J.K. Rowling,21.59,47,2,A great book about life and adventure.,Velasquez-Jones,2001
+738,Moby-Dick,Herman Melville,18.62,15,4,A great book about life and adventure.,"Meza, Bennett and Olson",1992
+739,The Hobbit,J.R.R. Tolkien,31.86,5,4,A great book about life and adventure.,Hunt-Miller,2011
+740,The Lord of the Rings,Ray Bradbury,20.68,69,2,A great book about life and adventure.,Powell-Miles,2023
+741,The Lord of the Rings,J.D. Salinger,11.73,77,1,A great book about life and adventure.,"Jacobs, Oconnor and Martin",1984
+742,Pride and Prejudice,George Orwell,40.47,88,4,A great book about life and adventure.,"Duran, Gordon and Patrick",1999
+743,Moby-Dick,Jane Austen,10.49,4,2,A great book about life and adventure.,Deleon-Johnson,1984
+744,Moby-Dick,J.K. Rowling,48.46,74,3,A great book about life and adventure.,"Davis, Miller and Miller",2009
+745,Pride and Prejudice,J.R.R. Tolkien,45.93,8,1,A great book about life and adventure.,Wade Group,2015
+746,The Great Gatsby,Harper Lee,36.4,29,4,A great book about life and adventure.,"Friedman, Shannon and Payne",1985
+747,Moby-Dick,Herman Melville,41.58,31,5,A great book about life and adventure.,"Andersen, Smith and Casey",2008
+748,Moby-Dick,Harper Lee,43.5,4,1,A great book about life and adventure.,Barron Group,2000
+749,1984,Herman Melville,5.15,84,3,A great book about life and adventure.,Guzman Inc,1982
+750,The Lord of the Rings,Jane Austen,9.51,13,5,A great book about life and adventure.,Scott-Jordan,1983
+751,1984,Ray Bradbury,21.75,16,5,A great book about life and adventure.,Bridges-Thompson,2002
+752,To Kill a Mockingbird,Harper Lee,26.28,3,2,A great book about life and adventure.,Allen Ltd,1982
+753,Harry Potter and the Sorcerer's Stone,J.R.R. Tolkien,36.69,66,5,A great book about life and adventure.,"Morales, Bradley and Hernandez",2022
+754,The Great Gatsby,F. Scott Fitzgerald,25.23,72,3,A great book about life and adventure.,Miller Group,1984
+755,Fahrenheit 451,J.R.R. Tolkien,46.14,83,2,A great book about life and adventure.,"Woodward, Mcdonald and Bowen",1988
+756,Harry Potter and the Sorcerer's Stone,Ray Bradbury,30.08,34,4,A great book about life and adventure.,Caldwell PLC,1994
+757,1984,F. Scott Fitzgerald,26.66,79,3,A great book about life and adventure.,Duran Inc,2011
+758,Harry Potter and the Sorcerer's Stone,J.R.R. Tolkien,8.8,14,1,A great book about life and adventure.,Stone-Taylor,1990
+759,The Lord of the Rings,J.D. Salinger,24.01,28,2,A great book about life and adventure.,Cruz LLC,1988
+760,To Kill a Mockingbird,George Orwell,9.52,48,5,A great book about life and adventure.,Robertson LLC,2012
+761,The Great Gatsby,J.K. Rowling,11.48,31,5,A great book about life and adventure.,"Bennett, Richardson and Rodriguez",2001
+762,Harry Potter and the Sorcerer's Stone,J.R.R. Tolkien,9.96,52,4,A great book about life and adventure.,Garcia-Collins,2004
+763,Fahrenheit 451,J.D. Salinger,20.64,77,2,A great book about life and adventure.,Lopez Ltd,1991
+764,The Great Gatsby,J.D. Salinger,8.36,23,2,A great book about life and adventure.,Brown-Franco,1999
+765,1984,Ray Bradbury,37.04,1,2,A great book about life and adventure.,"Ballard, Reese and Scott",2003
+766,The Catcher in the Rye,George Orwell,35.94,29,5,A great book about life and adventure.,"Davies, Hester and Johnson",1983
+767,The Great Gatsby,F. Scott Fitzgerald,33.12,35,1,A great book about life and adventure.,Case LLC,2003
+768,Pride and Prejudice,J.D. Salinger,19.55,74,1,A great book about life and adventure.,"Sandoval, Brown and Thompson",2010
+769,Pride and Prejudice,J.R.R. Tolkien,30.75,10,3,A great book about life and adventure.,Cortez PLC,2008
+770,The Catcher in the Rye,Harper Lee,26.95,48,1,A great book about life and adventure.,"Simmons, Donovan and Ellis",2006
+771,The Catcher in the Rye,J.R.R. Tolkien,10.09,56,5,A great book about life and adventure.,"Singh, Jones and Crawford",2001
+772,Moby-Dick,George Orwell,19.73,93,4,A great book about life and adventure.,Brown-Bradley,2007
+773,Moby-Dick,J.R.R. Tolkien,32.77,83,3,A great book about life and adventure.,"Moore, Mora and Guzman",1991
+774,Pride and Prejudice,J.K. Rowling,12.82,35,3,A great book about life and adventure.,Mccarty-Elliott,2012
+775,To Kill a Mockingbird,Jane Austen,26.35,62,2,A great book about life and adventure.,"Oliver, Jimenez and Torres",2001
+776,The Lord of the Rings,J.K. Rowling,7.95,75,1,A great book about life and adventure.,"Buck, Mueller and Brandt",1981
+777,Harry Potter and the Sorcerer's Stone,Jane Austen,24.19,68,2,A great book about life and adventure.,Murphy PLC,1998
+778,The Great Gatsby,J.K. Rowling,39.33,35,5,A great book about life and adventure.,Martin-Summers,2014
+779,The Catcher in the Rye,Jane Austen,49.52,32,5,A great book about life and adventure.,Zimmerman-Hale,2009
+780,Fahrenheit 451,J.R.R. Tolkien,34.07,25,3,A great book about life and adventure.,Knight-Hendrix,2009
+781,The Lord of the Rings,F. Scott Fitzgerald,41.43,63,1,A great book about life and adventure.,Quinn-Richards,2015
+782,The Catcher in the Rye,Harper Lee,13.57,78,1,A great book about life and adventure.,Wright Ltd,2008
+783,The Catcher in the Rye,Herman Melville,29.16,33,3,A great book about life and adventure.,Smith-Marshall,1996
+784,To Kill a Mockingbird,George Orwell,40.72,67,3,A great book about life and adventure.,Wilson Group,1995
+785,To Kill a Mockingbird,F. Scott Fitzgerald,8.05,62,3,A great book about life and adventure.,Wilson-Ortiz,2009
+786,The Lord of the Rings,Jane Austen,33.49,8,5,A great book about life and adventure.,Mcdaniel-Arnold,2012
+787,Harry Potter and the Sorcerer's Stone,George Orwell,34.75,83,4,A great book about life and adventure.,Campos-Rojas,2014
+788,The Great Gatsby,J.R.R. Tolkien,32.99,78,1,A great book about life and adventure.,Brown Inc,2001
+789,Harry Potter and the Sorcerer's Stone,J.K. Rowling,13.17,10,4,A great book about life and adventure.,Lewis Group,1994
+790,The Catcher in the Rye,F. Scott Fitzgerald,30.78,9,3,A great book about life and adventure.,"Williams, Montgomery and Wilson",1980
+791,The Catcher in the Rye,Jane Austen,17.57,56,3,A great book about life and adventure.,Smith-Brown,2016
+792,To Kill a Mockingbird,F. Scott Fitzgerald,32.47,64,5,A great book about life and adventure.,"Miller, Townsend and Robinson",1980
+793,The Hobbit,Ray Bradbury,26.78,24,5,A great book about life and adventure.,Brown-Lee,1985
+794,The Great Gatsby,Jane Austen,16.18,5,4,A great book about life and adventure.,Lawrence Inc,2019
+795,Harry Potter and the Sorcerer's Stone,J.R.R. Tolkien,33.53,60,2,A great book about life and adventure.,"Green, Ward and Hernandez",1987
+796,Pride and Prejudice,J.R.R. Tolkien,38.23,82,3,A great book about life and adventure.,Ross Group,1980
+797,Pride and Prejudice,Herman Melville,43.1,87,1,A great book about life and adventure.,"Thomas, Bush and Fisher",2018
+798,The Great Gatsby,Harper Lee,27.88,66,4,A great book about life and adventure.,Bolton-King,2019
+799,The Hobbit,J.K. Rowling,27.21,33,1,A great book about life and adventure.,Hull-Cardenas,1981
+800,The Great Gatsby,Harper Lee,16.13,95,5,A great book about life and adventure.,Sanchez-Young,2004
+801,To Kill a Mockingbird,J.K. Rowling,7.27,20,4,A great book about life and adventure.,Maynard LLC,1998
+802,The Catcher in the Rye,Herman Melville,23.72,8,4,A great book about life and adventure.,Potter-Mckee,1982
+803,The Hobbit,Herman Melville,35.25,43,1,A great book about life and adventure.,"Hardy, Reid and Mora",1982
+804,The Hobbit,Harper Lee,27.72,77,4,A great book about life and adventure.,Vargas Inc,1992
+805,Pride and Prejudice,J.R.R. Tolkien,31.43,96,1,A great book about life and adventure.,Miller-Fuller,1987
+806,The Great Gatsby,Ray Bradbury,40.46,33,1,A great book about life and adventure.,"Johnston, Travis and Hunter",1988
+807,Harry Potter and the Sorcerer's Stone,Harper Lee,27.14,60,3,A great book about life and adventure.,Thomas and Sons,1993
+808,The Catcher in the Rye,George Orwell,9.92,22,1,A great book about life and adventure.,"Thomas, Berger and Johnson",2003
+809,To Kill a Mockingbird,Herman Melville,9.21,4,2,A great book about life and adventure.,"Thomas, Sims and Clark",1993
+810,Moby-Dick,Harper Lee,28.66,53,2,A great book about life and adventure.,Hall-Hernandez,2007
+811,The Hobbit,George Orwell,35.72,42,4,A great book about life and adventure.,Price-Clark,2022
+812,To Kill a Mockingbird,Ray Bradbury,27.08,26,2,A great book about life and adventure.,"Moore, Cooper and Powers",2002
+813,Harry Potter and the Sorcerer's Stone,F. Scott Fitzgerald,5.8,57,1,A great book about life and adventure.,"Espinoza, Moyer and Walter",1985
+814,Harry Potter and the Sorcerer's Stone,George Orwell,41.62,68,2,A great book about life and adventure.,Watson Ltd,1995
+815,Fahrenheit 451,J.R.R. Tolkien,35.15,23,5,A great book about life and adventure.,Golden-Smith,1983
+816,Moby-Dick,J.R.R. Tolkien,31.25,48,1,A great book about life and adventure.,Fernandez PLC,2013
+817,1984,J.K. Rowling,24.65,60,2,A great book about life and adventure.,Thomas and Sons,2014
+818,Moby-Dick,Jane Austen,47.29,54,1,A great book about life and adventure.,Kaufman PLC,2013
+819,Pride and Prejudice,F. Scott Fitzgerald,28.73,98,4,A great book about life and adventure.,Miller-Reyes,2022
+820,The Lord of the Rings,Herman Melville,43.02,7,2,A great book about life and adventure.,Williams-Moran,2019
+821,To Kill a Mockingbird,J.R.R. Tolkien,16.0,24,5,A great book about life and adventure.,"Gutierrez, Lawson and Brown",2001
+822,Fahrenheit 451,Harper Lee,41.72,13,5,A great book about life and adventure.,Allen-Parker,1993
+823,Moby-Dick,Jane Austen,19.93,57,2,A great book about life and adventure.,Kelley Inc,2024
+824,Harry Potter and the Sorcerer's Stone,Harper Lee,25.5,85,4,A great book about life and adventure.,"Young, Cross and Watts",2005
+825,Moby-Dick,F. Scott Fitzgerald,16.99,38,1,A great book about life and adventure.,Singh LLC,1983
+826,The Lord of the Rings,J.K. Rowling,47.78,60,5,A great book about life and adventure.,Woods and Sons,2013
+827,The Great Gatsby,J.R.R. Tolkien,31.11,2,1,A great book about life and adventure.,"Snow, Price and Mccarthy",2004
+828,Moby-Dick,Jane Austen,22.92,50,2,A great book about life and adventure.,Vargas-Rodriguez,1994
+829,1984,Ray Bradbury,11.55,73,1,A great book about life and adventure.,"Mcconnell, Reynolds and Evans",2004
+830,Fahrenheit 451,J.K. Rowling,14.31,88,5,A great book about life and adventure.,Lynch-Morris,2004
+831,The Lord of the Rings,F. Scott Fitzgerald,12.54,23,2,A great book about life and adventure.,"Olson, Sanchez and Peterson",1995
+832,Fahrenheit 451,Harper Lee,37.5,23,2,A great book about life and adventure.,Nielsen LLC,1996
+833,Pride and Prejudice,Herman Melville,9.41,89,5,A great book about life and adventure.,"Booth, Horton and Pope",1980
+834,1984,J.K. Rowling,10.22,65,5,A great book about life and adventure.,Schneider and Sons,2017
+835,The Catcher in the Rye,Jane Austen,23.75,87,3,A great book about life and adventure.,Dominguez-Beck,1982
+836,The Lord of the Rings,Jane Austen,27.98,41,5,A great book about life and adventure.,"Taylor, Perry and Thomas",2017
+837,The Hobbit,Herman Melville,25.73,1,1,A great book about life and adventure.,Moore PLC,2017
+838,The Catcher in the Rye,F. Scott Fitzgerald,28.0,6,4,A great book about life and adventure.,"Weber, Thornton and Johnson",2018
+839,1984,J.K. Rowling,21.63,6,1,A great book about life and adventure.,"Petty, Miller and Richards",1982
+840,The Catcher in the Rye,Harper Lee,17.8,97,2,A great book about life and adventure.,"Hall, Love and Hopkins",2004
+841,The Lord of the Rings,J.R.R. Tolkien,9.39,94,5,A great book about life and adventure.,Davidson and Sons,2011
+842,The Hobbit,Jane Austen,35.29,45,2,A great book about life and adventure.,Esparza-Martin,2022
+843,Harry Potter and the Sorcerer's Stone,Harper Lee,22.77,23,3,A great book about life and adventure.,Brennan-Sanchez,2013
+844,Moby-Dick,Herman Melville,20.01,1,5,A great book about life and adventure.,Bradshaw and Sons,2008
+845,Pride and Prejudice,F. Scott Fitzgerald,10.34,56,3,A great book about life and adventure.,Johnson-Lawson,1980
+846,The Catcher in the Rye,J.K. Rowling,43.71,87,4,A great book about life and adventure.,Singleton-Harper,2008
+847,Moby-Dick,J.R.R. Tolkien,26.79,78,3,A great book about life and adventure.,Schneider-Miller,1980
+848,Harry Potter and the Sorcerer's Stone,F. Scott Fitzgerald,27.33,47,4,A great book about life and adventure.,Stewart and Sons,2019
+849,The Hobbit,F. Scott Fitzgerald,5.72,100,3,A great book about life and adventure.,Marsh and Sons,1997
+850,To Kill a Mockingbird,J.K. Rowling,25.43,27,4,A great book about life and adventure.,Marshall Inc,1993
+851,The Great Gatsby,J.R.R. Tolkien,13.95,84,5,A great book about life and adventure.,Stark Inc,1991
+852,Harry Potter and the Sorcerer's Stone,Herman Melville,34.65,54,3,A great book about life and adventure.,"Brewer, Flores and Buchanan",2022
+853,The Hobbit,Harper Lee,25.44,27,4,A great book about life and adventure.,"Merritt, Bowers and Williams",2013
+854,The Hobbit,George Orwell,40.42,9,5,A great book about life and adventure.,Baldwin Group,2012
+855,To Kill a Mockingbird,Jane Austen,17.07,79,5,A great book about life and adventure.,Wolfe-Barker,1988
+856,Harry Potter and the Sorcerer's Stone,F. Scott Fitzgerald,15.89,82,1,A great book about life and adventure.,Kelley-Hernandez,2013
+857,1984,Herman Melville,34.59,75,2,A great book about life and adventure.,Wright and Sons,2016
+858,Pride and Prejudice,F. Scott Fitzgerald,17.86,3,1,A great book about life and adventure.,"Mendoza, Webb and Rosales",1988
+859,The Great Gatsby,Herman Melville,46.55,55,3,A great book about life and adventure.,Rogers Inc,2018
+860,To Kill a Mockingbird,George Orwell,7.12,36,3,A great book about life and adventure.,Anderson Inc,1992
+861,1984,J.R.R. Tolkien,23.42,95,2,A great book about life and adventure.,Hanson LLC,2004
+862,The Great Gatsby,Harper Lee,36.77,94,3,A great book about life and adventure.,Russell Ltd,2015
+863,The Lord of the Rings,J.R.R. Tolkien,13.58,62,5,A great book about life and adventure.,Simpson-Jones,2024
+864,Fahrenheit 451,F. Scott Fitzgerald,38.02,73,4,A great book about life and adventure.,Mueller-Bailey,2001
+865,The Hobbit,Ray Bradbury,29.58,61,5,A great book about life and adventure.,Walker-Callahan,1980
+866,The Lord of the Rings,J.D. Salinger,8.99,8,4,A great book about life and adventure.,"Benitez, Duran and Myers",2017
+867,The Catcher in the Rye,J.K. Rowling,43.16,34,3,A great book about life and adventure.,"Flores, Lawrence and Odonnell",1988
+868,The Hobbit,J.D. Salinger,33.31,60,5,A great book about life and adventure.,Williams LLC,2006
+869,Moby-Dick,Harper Lee,48.28,89,3,A great book about life and adventure.,Church-Walker,2020
+870,Fahrenheit 451,Jane Austen,5.09,76,1,A great book about life and adventure.,Davis and Sons,2024
+871,Pride and Prejudice,Jane Austen,12.89,37,5,A great book about life and adventure.,Jensen-Gardner,1997
+872,The Catcher in the Rye,J.D. Salinger,24.73,20,5,A great book about life and adventure.,"Sanchez, Henderson and Fuller",1994
+873,The Lord of the Rings,Harper Lee,30.62,57,5,A great book about life and adventure.,"Rogers, Taylor and Perry",2006
+874,1984,Herman Melville,45.62,75,4,A great book about life and adventure.,Conrad PLC,1985
+875,The Hobbit,J.R.R. Tolkien,42.6,1,4,A great book about life and adventure.,"Sheppard, Smith and Jackson",2013
+876,Moby-Dick,Ray Bradbury,49.18,6,3,A great book about life and adventure.,Wilson-Bailey,1984
+877,Harry Potter and the Sorcerer's Stone,George Orwell,40.97,90,5,A great book about life and adventure.,"James, Gomez and Taylor",1983
+878,1984,F. Scott Fitzgerald,37.71,48,1,A great book about life and adventure.,"Patterson, Nguyen and Baldwin",1992
+879,Harry Potter and the Sorcerer's Stone,J.R.R. Tolkien,42.36,7,4,A great book about life and adventure.,Reed Group,2001
+880,Pride and Prejudice,George Orwell,24.68,89,3,A great book about life and adventure.,"Bright, White and Anderson",2006
+881,Pride and Prejudice,Jane Austen,43.3,87,2,A great book about life and adventure.,Reynolds PLC,2004
+882,The Great Gatsby,J.R.R. Tolkien,7.73,37,5,A great book about life and adventure.,"Watson, Griffin and Jones",1992
+883,The Hobbit,Jane Austen,10.36,63,5,A great book about life and adventure.,Campos Group,1995
+884,Harry Potter and the Sorcerer's Stone,J.K. Rowling,40.56,78,3,A great book about life and adventure.,Jones-Christensen,1994
+885,1984,F. Scott Fitzgerald,49.81,60,5,A great book about life and adventure.,"Griffith, Riley and Ramos",1986
+886,The Catcher in the Rye,Ray Bradbury,37.96,71,4,A great book about life and adventure.,"Franklin, Stevenson and Spears",1988
+887,To Kill a Mockingbird,J.R.R. Tolkien,22.67,37,1,A great book about life and adventure.,Silva-Bass,1999
+888,The Lord of the Rings,George Orwell,30.13,15,3,A great book about life and adventure.,"Swanson, Fields and Brown",1986
+889,Pride and Prejudice,J.R.R. Tolkien,12.69,62,4,A great book about life and adventure.,Bowman and Sons,2004
+890,Fahrenheit 451,Herman Melville,49.73,14,2,A great book about life and adventure.,Lee Group,2016
+891,1984,Jane Austen,38.85,3,3,A great book about life and adventure.,"Burgess, Smith and Robinson",2019
+892,The Lord of the Rings,Herman Melville,32.15,58,4,A great book about life and adventure.,Page-Weiss,2021
+893,The Catcher in the Rye,J.K. Rowling,8.01,25,4,A great book about life and adventure.,Peterson-Drake,1994
+894,Harry Potter and the Sorcerer's Stone,F. Scott Fitzgerald,44.85,86,2,A great book about life and adventure.,Curry-Castaneda,2018
+895,The Catcher in the Rye,George Orwell,40.6,21,2,A great book about life and adventure.,Lee PLC,1997
+896,The Catcher in the Rye,J.R.R. Tolkien,7.46,94,5,A great book about life and adventure.,Contreras PLC,2007
+897,The Hobbit,J.R.R. Tolkien,30.7,7,3,A great book about life and adventure.,Pham Ltd,1988
+898,The Catcher in the Rye,J.K. Rowling,30.68,16,4,A great book about life and adventure.,Smith-Ward,2002
+899,Moby-Dick,J.R.R. Tolkien,16.36,95,5,A great book about life and adventure.,Johnson-Holland,1983
+900,Moby-Dick,J.K. Rowling,47.96,15,1,A great book about life and adventure.,Moore-Martin,2024
+901,The Lord of the Rings,Herman Melville,47.38,13,4,A great book about life and adventure.,White-Merritt,1985
+902,Moby-Dick,Ray Bradbury,15.97,39,4,A great book about life and adventure.,Mcknight-Miller,2008
+903,The Lord of the Rings,J.K. Rowling,40.44,54,4,A great book about life and adventure.,"Pope, Sanders and Shelton",2022
+904,Pride and Prejudice,F. Scott Fitzgerald,6.64,4,5,A great book about life and adventure.,"Gamble, Murphy and Jensen",1993
+905,Pride and Prejudice,Ray Bradbury,47.55,9,3,A great book about life and adventure.,"Hanson, Vance and Sutton",2012
+906,Harry Potter and the Sorcerer's Stone,J.R.R. Tolkien,30.2,39,3,A great book about life and adventure.,"Jackson, Krueger and Wilkerson",1984
+907,Moby-Dick,Jane Austen,36.91,77,4,A great book about life and adventure.,Delgado Ltd,2003
+908,Pride and Prejudice,J.K. Rowling,42.96,28,4,A great book about life and adventure.,Chen LLC,2019
+909,Pride and Prejudice,Harper Lee,35.73,58,4,A great book about life and adventure.,Acosta-Monroe,1983
+910,Pride and Prejudice,J.D. Salinger,47.21,18,2,A great book about life and adventure.,Moses Group,2007
+911,Moby-Dick,J.D. Salinger,32.87,16,3,A great book about life and adventure.,Jones-Moyer,2002
+912,The Hobbit,J.R.R. Tolkien,43.6,11,2,A great book about life and adventure.,Graves Inc,2019
+913,To Kill a Mockingbird,J.R.R. Tolkien,27.75,87,3,A great book about life and adventure.,"Parker, Ortiz and Miller",2011
+914,The Catcher in the Rye,Ray Bradbury,10.97,30,2,A great book about life and adventure.,"Acosta, Morrow and Black",1997
+915,Harry Potter and the Sorcerer's Stone,J.R.R. Tolkien,45.51,39,1,A great book about life and adventure.,Frank-Smith,2002
+916,Moby-Dick,J.R.R. Tolkien,14.29,57,2,A great book about life and adventure.,White-Levy,1999
+917,Fahrenheit 451,J.K. Rowling,45.35,48,2,A great book about life and adventure.,Reid-Shields,1998
+918,The Catcher in the Rye,J.R.R. Tolkien,49.45,40,5,A great book about life and adventure.,Nelson-Hampton,2014
+919,Moby-Dick,Herman Melville,21.47,9,3,A great book about life and adventure.,Choi Inc,1991
+920,The Catcher in the Rye,Ray Bradbury,16.43,85,4,A great book about life and adventure.,Dean-Jordan,2014
+921,The Catcher in the Rye,Herman Melville,22.64,81,2,A great book about life and adventure.,Torres-Johnson,1995
+922,The Great Gatsby,Ray Bradbury,43.03,62,3,A great book about life and adventure.,Lee Ltd,1997
+923,Harry Potter and the Sorcerer's Stone,J.R.R. Tolkien,38.89,3,5,A great book about life and adventure.,Bowers and Sons,1986
+924,Pride and Prejudice,Harper Lee,9.73,88,2,A great book about life and adventure.,"Rodriguez, Reynolds and Arias",1996
+925,Moby-Dick,J.K. Rowling,49.97,97,4,A great book about life and adventure.,"Eaton, Hammond and Lawson",2006
+926,To Kill a Mockingbird,Herman Melville,26.98,97,5,A great book about life and adventure.,Bailey-King,2022
+927,To Kill a Mockingbird,J.R.R. Tolkien,7.33,63,5,A great book about life and adventure.,Dickerson-Miller,2013
+928,To Kill a Mockingbird,F. Scott Fitzgerald,34.62,40,2,A great book about life and adventure.,Bruce-Mcmillan,1989
+929,The Catcher in the Rye,F. Scott Fitzgerald,46.73,60,2,A great book about life and adventure.,Moore-Bolton,1984
+930,Moby-Dick,J.R.R. Tolkien,31.36,37,3,A great book about life and adventure.,Nelson-Graham,2007
+931,Harry Potter and the Sorcerer's Stone,Harper Lee,14.47,66,5,A great book about life and adventure.,"Sanchez, Vincent and Vance",1983
+932,Fahrenheit 451,F. Scott Fitzgerald,12.49,96,5,A great book about life and adventure.,Young PLC,2022
+933,The Great Gatsby,J.R.R. Tolkien,42.68,2,3,A great book about life and adventure.,Clark-Carson,1984
+934,Pride and Prejudice,Harper Lee,6.75,26,3,A great book about life and adventure.,Brady Inc,2012
+935,The Hobbit,F. Scott Fitzgerald,34.68,3,2,A great book about life and adventure.,"Hill, Price and Smith",1996
+936,Fahrenheit 451,Ray Bradbury,28.45,56,4,A great book about life and adventure.,Perez-Thomas,2010
+937,Harry Potter and the Sorcerer's Stone,J.R.R. Tolkien,27.01,88,2,A great book about life and adventure.,Gonzalez-Palmer,1996
+938,The Lord of the Rings,Jane Austen,10.63,89,2,A great book about life and adventure.,"Martinez, Vargas and Carpenter",2013
+939,Fahrenheit 451,F. Scott Fitzgerald,16.29,2,2,A great book about life and adventure.,"Daugherty, Smith and Wong",1989
+940,To Kill a Mockingbird,Jane Austen,30.47,7,3,A great book about life and adventure.,Ford and Sons,2004
+941,Fahrenheit 451,George Orwell,17.27,20,2,A great book about life and adventure.,Marshall Inc,1987
+942,Fahrenheit 451,Harper Lee,28.79,24,1,A great book about life and adventure.,James Ltd,2006
+943,Pride and Prejudice,George Orwell,26.52,17,5,A great book about life and adventure.,"Robinson, Lindsey and White",2009
+944,The Great Gatsby,J.R.R. Tolkien,9.11,69,1,A great book about life and adventure.,"Park, Morrison and Lambert",1995
+945,The Great Gatsby,Ray Bradbury,7.51,39,2,A great book about life and adventure.,Strong-Murphy,1991
+946,1984,J.R.R. Tolkien,48.54,51,1,A great book about life and adventure.,"Simpson, Hall and West",1991
+947,The Hobbit,Harper Lee,17.98,89,5,A great book about life and adventure.,"Lawrence, Lopez and Ortiz",2002
+948,1984,J.K. Rowling,10.37,44,3,A great book about life and adventure.,Trujillo-Gray,2016
+949,Harry Potter and the Sorcerer's Stone,George Orwell,35.19,73,1,A great book about life and adventure.,Johnson-Munoz,2024
+950,Fahrenheit 451,J.R.R. Tolkien,9.11,31,2,A great book about life and adventure.,Kelley-Wood,1980
+951,Harry Potter and the Sorcerer's Stone,J.K. Rowling,17.22,90,2,A great book about life and adventure.,"Navarro, Green and Bennett",1995
+952,To Kill a Mockingbird,Harper Lee,37.83,12,1,A great book about life and adventure.,Phillips-Chang,1993
+953,1984,Herman Melville,21.54,96,3,A great book about life and adventure.,Weber Group,1980
+954,The Great Gatsby,George Orwell,34.43,33,1,A great book about life and adventure.,Williams Inc,2012
+955,Fahrenheit 451,Harper Lee,20.35,18,3,A great book about life and adventure.,Horn-Cole,2004
+956,Moby-Dick,J.R.R. Tolkien,47.44,94,2,A great book about life and adventure.,Mccarthy-Montgomery,2014
+957,1984,J.D. Salinger,44.05,27,2,A great book about life and adventure.,"Clark, Pacheco and Mitchell",2021
+958,The Hobbit,J.D. Salinger,13.73,18,1,A great book about life and adventure.,Jones PLC,1986
+959,Harry Potter and the Sorcerer's Stone,Ray Bradbury,38.77,10,3,A great book about life and adventure.,Ward-Lowery,1984
+960,The Great Gatsby,J.R.R. Tolkien,40.11,66,1,A great book about life and adventure.,"Smith, Chen and Bullock",2015
+961,Pride and Prejudice,Herman Melville,47.28,24,4,A great book about life and adventure.,Galloway Ltd,1990
+962,The Hobbit,Ray Bradbury,20.99,53,2,A great book about life and adventure.,Fowler-Guerrero,2012
+963,The Lord of the Rings,George Orwell,9.96,54,4,A great book about life and adventure.,"Marquez, Barnes and Oneal",1994
+964,Moby-Dick,George Orwell,16.84,2,3,A great book about life and adventure.,Keith-Martinez,1996
+965,The Hobbit,J.K. Rowling,43.96,54,2,A great book about life and adventure.,Miller and Sons,1993
+966,Pride and Prejudice,George Orwell,12.12,2,3,A great book about life and adventure.,Johnston Ltd,1981
+967,The Great Gatsby,Jane Austen,18.52,8,2,A great book about life and adventure.,"Wood, Sanders and Wheeler",2008
+968,Harry Potter and the Sorcerer's Stone,Jane Austen,12.97,2,1,A great book about life and adventure.,Haynes-Green,2020
+969,Moby-Dick,Ray Bradbury,16.46,33,5,A great book about life and adventure.,Stein LLC,1982
+970,The Great Gatsby,Herman Melville,41.96,87,4,A great book about life and adventure.,Rogers Inc,2017
+971,Fahrenheit 451,Ray Bradbury,40.46,53,1,A great book about life and adventure.,"Murray, Morrison and Stark",2020
+972,The Hobbit,J.K. Rowling,24.96,8,5,A great book about life and adventure.,"Peterson, Foster and Lewis",2022
+973,Moby-Dick,J.R.R. Tolkien,26.94,100,4,A great book about life and adventure.,"Suarez, Rivera and Cameron",2022
+974,To Kill a Mockingbird,Ray Bradbury,12.43,11,3,A great book about life and adventure.,Baker-Kemp,1994
+975,The Catcher in the Rye,Harper Lee,19.7,97,4,A great book about life and adventure.,Carey LLC,2015
+976,Moby-Dick,J.D. Salinger,20.62,55,5,A great book about life and adventure.,Lee-Perez,1990
+977,The Great Gatsby,George Orwell,16.36,47,3,A great book about life and adventure.,Stanley-Diaz,1981
+978,The Hobbit,J.D. Salinger,8.08,21,5,A great book about life and adventure.,Lopez-Green,2023
+979,The Catcher in the Rye,J.R.R. Tolkien,40.0,16,5,A great book about life and adventure.,Meyer PLC,2016
+980,Pride and Prejudice,F. Scott Fitzgerald,29.87,49,3,A great book about life and adventure.,"Jennings, Smith and Carter",2019
+981,Harry Potter and the Sorcerer's Stone,F. Scott Fitzgerald,48.41,27,3,A great book about life and adventure.,"Klein, Reynolds and Carrillo",1995
+982,The Catcher in the Rye,J.K. Rowling,44.63,47,4,A great book about life and adventure.,Osborn-Donovan,2020
+983,Moby-Dick,J.R.R. Tolkien,49.66,98,5,A great book about life and adventure.,Johnson and Sons,2016
+984,The Hobbit,George Orwell,42.96,6,3,A great book about life and adventure.,Mack Group,1999
+985,The Lord of the Rings,J.K. Rowling,16.36,20,3,A great book about life and adventure.,Stephens-Howard,2021
+986,Moby-Dick,J.R.R. Tolkien,25.13,81,4,A great book about life and adventure.,Rogers PLC,2002
+987,The Lord of the Rings,Ray Bradbury,27.68,7,3,A great book about life and adventure.,"Sanders, Edwards and Jones",2006
+988,Harry Potter and the Sorcerer's Stone,Jane Austen,24.97,3,4,A great book about life and adventure.,Sanders-King,2017
+989,Fahrenheit 451,J.R.R. Tolkien,40.82,71,5,A great book about life and adventure.,Miller PLC,1989
+990,The Lord of the Rings,Herman Melville,7.66,21,5,A great book about life and adventure.,Perry LLC,2016
+991,The Hobbit,F. Scott Fitzgerald,28.02,52,5,A great book about life and adventure.,"Martinez, Mooney and Eaton",1991
+992,Pride and Prejudice,Jane Austen,18.09,32,1,A great book about life and adventure.,"Walker, Ochoa and Navarro",2000
+993,1984,Ray Bradbury,24.43,84,5,A great book about life and adventure.,Evans and Sons,2005
+994,The Lord of the Rings,J.K. Rowling,35.14,88,5,A great book about life and adventure.,Pollard-Parker,1999
+995,1984,F. Scott Fitzgerald,22.33,100,3,A great book about life and adventure.,"Logan, Kramer and Blanchard",2011
+996,Fahrenheit 451,Herman Melville,22.79,16,1,A great book about life and adventure.,"Gibson, Sullivan and Meza",2013
+997,To Kill a Mockingbird,Ray Bradbury,19.66,54,3,A great book about life and adventure.,"Davis, Bailey and Ward",1990
+998,The Catcher in the Rye,F. Scott Fitzgerald,47.02,75,4,A great book about life and adventure.,Carlson-Orozco,2004
+999,The Hobbit,Herman Melville,36.1,97,2,A great book about life and adventure.,"Whitehead, Manning and Costa",2000
+1000,Fahrenheit 451,George Orwell,40.32,100,1,A great book about life and adventure.,David-Hartman,1988
